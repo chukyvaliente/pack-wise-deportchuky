@@ -8,11 +8,11 @@
 {  
 		"name": "Bundesliga  𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
 		"image": "https://i.pinimg.com/originals/5a/41/29/5a4129695a9acc9fee99b40531b07672.png",
-		"info": "",
-		"stations": [{
-                        "name": "Lacio",
-                                                      "name": "emilan",
-			"name": "Opción - 1",
+		"stations": [
+		{
+
+"name": "emilan",
+"name": "Opción - 1",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
         "url": "https://forgepattern.net/embed/2zy981htw4ee",
@@ -33,7 +33,7 @@
 		        "referer": "https://www.elixx.xyz/",
                           "isHost":"true"
            }, {
-                        "name": "juventus",
+   "name": "juventus",
 			"name": "Opción - 3",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
@@ -63,7 +63,7 @@
 		"image": "https://i.ytimg.com/vi/SJReog-aZH4/maxresdefault.jpg",
 		"info": "",
 		"stations": [{
-                        "name" : "stream",
+                       "name" : "stream",
 	                "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
@@ -148,9 +148,9 @@
 			"name": "8", 
 			"name": "Partido en (Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                                       "url" : "https://generalpilli.net/embed/ae29jk4n", 
-                                                       "referer" : "https://bedsport.live/",
+            "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+            "url" : "https://generalpilli.net/embed/ae29jk4n", 
+            "referer" : "https://bedsport.live/",
 			"isHost" : "true"
 },
 ]},
@@ -229,9 +229,9 @@
 		"name": "Serie A (Italia)  𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
 		"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
 		"info": "",
-		"stations": [{
+		"stations": [
+		{
  			"name": "10",
-			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
           "url" : "https://generalpilli.net/embed/jwpz3ec0iqz",
@@ -338,7 +338,7 @@
 {			 
 		"name": "Zona Jeinzmacias 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
 		"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© "
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		"stations": [{
                     "name": "Evento 1",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
