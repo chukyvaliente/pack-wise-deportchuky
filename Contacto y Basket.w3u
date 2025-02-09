@@ -1,0 +1,220 @@
+{
+	"name": "UFC/MMA/Boxeo/Basket",
+    "author": "chuky (Haz-tu-liada al 09-02-2025)",
+    "image": "https://www.soloboxeo.com/wp-content/uploads/2023/11/Baloncesto-y-Boxeo.jpg",
+    "url": "https://raw.githubusercontent.com/chukyvaliente/UFC-MMA-Boxeo-ACB/refs/heads/main/Contacto%20y%20Basket.w3u",
+"groups": [
+
+{       
+"name": "Zona DAZN  𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+"image": "https://images.unsplash.com/photo-1678483789123-e8a73f82addb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TG9nb3RpcG8lMjBkZSUyMERBWk4lMjBNZWRpYXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+"stations" : 
+	[
+{  
+  "name": "Boxeo, UFC, MMA, WWE 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+            "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
+            "info": "",
+            "stations": [{
+                     "name": "Evento 1",
+                    "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+               	       	   "url" : "https://flstv.online/embed/boxing.php",
+             "isHost": "true"    
+                    },{
+                   "name" : "1",
+                 "name": "Evento 1(op2)",
+                    "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+               	       	       "url" :  "https://generalpilli.net/embed/g3cxfy",
+		"referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                     },{
+                   "name" : "52",
+                 "name": "Evento 1(op3)",
+                    "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+               	       	 	       	    "url" : "https://generalpilli.net/embed/hvbzk77nd?skin=1",
+                                                          "referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                    },{
+                 "name": "evento 2 MMA/UFC",
+                    "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+           "url" :  "https://flstv.online//embed/ufc.php",
+		"referer" : "https://flstv.online/",
+			 "isHost":"true"
+                    },{ 
+                 "name": "evento 3 MMA/UFC",
+                    "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                  	   "url" :  "https://streamingon.org/embed/hd-21.php",
+			 "isHost":"true"
+                        },{
+                 "name": "evento 4 MMA/UFC",
+                    "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                                     "url" :  "https://generalpilli.net/embed/taj6r",
+		"referer" : "https://bedsport.live/",
+			 "isHost":"true"
+		      },{ 
+                 "name": "Evento 5 MMA/UFC",
+                    "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+               "url" : "https://flstv.online//embed/ufc.php",
+             "referer" : "https://flstv.online/",
+			 "isHost":"true"  
+		     },{ 
+                 "name": "evento 6 Boxeo",
+                    "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                 	"url" :  "https://streamingon.org/embed/hd-22.php",
+			 "isHost":"true"
+	             },{ 
+                 "name": "evento 7 Boxeo",
+                    "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                  	  "url" :  "https://flstv.online//embed/boxing.php",
+			  "referer" : "https://flstv.online/",
+			 "isHost":"true"
+                      },{ 
+                             "name": "29",
+                 "name": "evento 8 Boxeo",
+                    "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                  "url" :  "https://generalpilli.net/embed/dnva8",
+		"referer" : "https://bedsport.live/",
+			 "isHost":"true"
+                        },{ 
+                                  "name": "6 sportson",
+                 "name": "evento 9 Boxeo",
+                    "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                    "url" :  "https://flstv.online//embed/boxing3.php",
+			  "referer" : "https://flstv.online/",
+			 "isHost":"true"
+                        },{ 
+                 "name": "evento 10 Boxeo",
+                    "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                   "url" :  "https://flstv.online//embed/boxing2.php",
+			  "referer" : "https://flstv.online/",
+			 "isHost":"true"
+                       },{ 
+                 "name": "Evento 11 WWE",
+                    "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                   "url": "http://sportsurge.stream/embed/wwe2.php",
+             "isHost":"true"
+                       },{ 
+                 "name": "Evento 12 WWE",
+                    "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                   "url": "http://sportsurge.stream/embed/wwe3.php",
+             "isHost":"true"
+                       },{ 
+                 "name": "Evento 13 WWE",
+                    "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                   "url": "http://sportsurge.stream/embed/wwe.php",
+                       "referer" : "https://flstv.online/",
+             "isHost":"true" 
+},
+]},
+{
+            "name": "La Liga Endesa/Euroliga 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
+            "image": "https://i.ibb.co/J7ZM8v6/acb-euroliga.jpg",
+            "info": "",
+            "stations": [{
+	         "name": "Opción 1(M-Deportes)",
+                    "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                                          "url" : "https://gocast.pro/steam.php?stream=PKwNPB3pqX3C",
+                       "referer" : "https://intac.pro/",
+             "isHost": "true"       
+                },{ 
+                    "name": "lat62",
+                    "name": "Opción 2(M-Deportes)",
+                    "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+            	 "url" : "https://catercollege.net/embed/xfkc2i",
+		"referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                },{
+                 "name": "lat55",
+                 "name": "Opción 1(Vamos)",
+                    "image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                   "url" : "https://catercollege.net/embed/xdi01inxsjl7nik", 
+                      "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                    },{ 
+                 "name": "18",     
+                 "name": "Opción 2(Vamos)",
+                    "image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+              	     "url" : "https://generalpilli.net/embed/xdpq3ptcuts1qpp",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"
+                       },{
+                     "name": "lat63",
+                     "name": "Opción 1(M-Deportes 2)",
+                    "image": "https://i.ibb.co/5KjMtsf/1-0-1-77-C2-40-A-1-C00000-0-0-0.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+               	"url" : "https://catercollege.net/embed/52g8nnqi37bly6",
+              "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                      },{
+                     "name": "Opción 2(M-Deportes 2)",
+                    "image": "https://i.ibb.co/5KjMtsf/1-0-1-77-C2-40-A-1-C00000-0-0-0.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+              "url" : "https://generalpilli.net/embed/wnm78ydq",
+             "referer" : "https://bedsport.live/",
+            "isHost": "true"   
+			 },{
+                       "name": "64",
+                     "name": "Opción 1(M-Deportes 3)",
+                    "image": "https://i.ibb.co/6mMfQCp/1-0-1-77-BF-40-A-1-C00000-0-0-0.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+              	"url" : "https://catercollege.net/embed/lbr3etluqsw",
+              "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                         },{
+                     "name": "Opción 2(M-Deportes 3)",
+                    "image": "https://i.ibb.co/6mMfQCp/1-0-1-77-BF-40-A-1-C00000-0-0-0.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                "url" : "https://mylivestream.pro/bettaa.php?stream=Z1dciyXmHR8w",
+              "referer" : "https://aliezstream.pro/",
+			 "isHost":"true"
+
+                         },{
+                          "name": "65",
+                     "name": "Opción 1(M-Deportes 4)",
+                    "image": "https://i.ibb.co/Vx7PkPn/1-0-1-77-C8-40-A-1-C00000-0-0-0.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                 "url" : "https://catercollege.net/embed/cmms5rk1",
+              "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                                            },{
+                                     "name": "Opción 2(M-Deportes 4)",
+                    "image": "https://i.ibb.co/6mMfQCp/1-0-1-77-BF-40-A-1-C00000-0-0-0.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                "url" : "https://mylivestream.pro/bettaa.php?stream=6Fb4qdsTDXWt",
+              "referer" : "https://aliezstream.pro/",
+			 "isHost":"true"
+
+			 },{
+                     "name": "Opción 3(M-Deportes 4)",
+                    "image": "https://i.ibb.co/Vx7PkPn/1-0-1-77-C8-40-A-1-C00000-0-0-0.png",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                 "url" : "https://ilovetoplay.xyz/maxsport.php?id=primamovistar4",
+                  "referer" : "https://antenasport.online/",
+            "isHost": "true"
+			 },	
+]}
+  ]
+}
+
+
+
+
+
