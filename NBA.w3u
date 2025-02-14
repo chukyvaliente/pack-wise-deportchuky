@@ -1,6 +1,6 @@
 {
 	"name": "Deportes EE.UU",
-    "author": "chuky (Haz-tu-liada al 12-02-2025)",
+    "author": "chuky (Haz-tu-liada al 14-02-2025)",
     "image": "https://thumbs.dreamstime.com/b/los-deportes-jugaron-en-los-estados-unidos-de-am%C3%A9rica-13821536.jpg",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/NBA.w3u",
 "groups": [
@@ -14,77 +14,77 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Boston Celtics vs San Antonio Spurs",
+			"name": "NBA All-Star Celebrity Game",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba1.php",
 			"isHost": "true"
                  }, {  
-                        "name": "Orlando Magic vs Charlotte Hornets",
+                        "name": "NBA Rising Stars",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba2.php",
 			"isHost": "true"
                }, {  
-                        "name": "Washington Wizards vs Indiana Pacers",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba3.php",
 			"isHost": "true"
                }, {  
-                        "name": "Brooklyn Nets vs Philadelphia 76ers",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba4.php",
 			"isHost": "true"
               }, {
-			"name": "Toronto Raptors vs Cleveland Cavaliers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba5.php",
 			"isHost": "true"
              }, {
-			"name": "New York Knicks vs Atlanta Hawks",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba6.php",
 			"isHost": "true"
               }, {  
-                         "name": "Chicago Bulls vs Detroit Pistons",
+                         "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba7.php",
 			"isHost": "true"
               }, {
-			"name": "New Orleans Pelicans vs Sacramento Kings",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba8.php",
 			"isHost": "true"
              }, {
-			"name": "Minnesota Timberwolves vs Milwaukee Bucks",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba9.php",
 			"isHost": "true"
              }, {
-			"name": "Oklahoma City Thunder vs Miami Heat",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba10.php",
 			"isHost": "true"
               }, {
-			"name": "Houston Rockets vs Phoenix Suns",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba11.php",
 			"isHost": "true"
                }, {
-			"name": "Denver Nuggets vs Portland Trail Blazers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba12.php",
 			"isHost": "true"
                }, {
-			"name": "Utah Jazz vs Los Angeles Lakers",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba13.php",
 			"isHost": "true"
                  }, {
-			"name": "Dallas Mavericks vs Golden State Warriors",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba1.php",
 			"isHost": "true" 
                     }, {
-			"name": "Los Angeles Clippers vs Memphis Grizzlies",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba14.php",
 			"isHost": "true" 
