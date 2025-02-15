@@ -19,14 +19,16 @@
         "referer" : "https://www.elixx.xyz/",
              "isHost": "true" 
           }, {
-			"name": "Opción - 1",
+			 "name": "dortmund",
+			"name": "Opción - 2",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			         "url" :  "https://calciostreaming.shop/live.php?ch=heidenheimvsstoccarda",
-			 "isHost":"true"
+			"url": "https://forgepattern.net/embed/xim5l82td952sj6",
+			"referer": "https://elixx.xyz/",
+             "isHost": "true" 
           }, {
                         "name": "Lazio",
-			"name": "Opción - 2",
+			"name": "Opción - 3",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			 "url" : "https://forgepattern.net/embed/x3euisb4tt7",
@@ -34,7 +36,7 @@
                           "isHost":"true"
            }, {
    "name": "juventus",
-			"name": "Opción - 3",
+			"name": "Opción - 4",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url": "https://forgepattern.net/embed/ww6frra9pf",
@@ -42,7 +44,7 @@
              "isHost": "true"  
           }, {
                         "name": "everton",
-			"name": "Opción - 4",
+			"name": "Opción - 5",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url": "https://forgepattern.net/embed/40ltfs8ms26hmy",
@@ -50,10 +52,18 @@
              "isHost": "true" 
                                          }, {
                         "name": "everton",
-			"name": "Opción - 5",
+			"name": "Opción - 6",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url": "https://generalpilli.net/embed/vxf0bjocis",
+			"referer": "https://bedsport.live/",
+             "isHost": "true" 
+                                }, {
+                        "name": "partizan",
+			"name": "Opción - 7",
+			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url": "https://generalpilli.net/embed/ugce3jz6chx",
 			"referer": "https://bedsport.live/",
              "isHost": "true" 
 },
@@ -296,13 +306,6 @@
 			    "url" :  "https://forgepattern.net/embed/sc44nn",
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
-	        }, {
-			"name": "",
-			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" :  "https://forgepattern.net/embed/lhfsvq5z",
-		"referer" : "https://www.elixx.xyz/",
-			 "isHost":"true" 
                 }, {
 			
                         "name": "Partizan",
@@ -313,11 +316,11 @@
               "referer" : "https://www.elixx.xyz/",
 			 "isHost":"true"
 	       }, {
-			"name": "7",
+			"name": "10",
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			       "url" : "https://generalpilli.net/embed/vxf0bjocis",
+			           "url" : "https://generalpilli.net/embed/jwpz3ec0iqz",
                   "referer" : "https://bedsport.live/",
             "isHost": "true"
                       }, {
