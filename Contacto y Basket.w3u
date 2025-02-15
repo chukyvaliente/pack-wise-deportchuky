@@ -1,6 +1,6 @@
 {
 	"name": "UFC/MMA/Boxeo/Basket",
-    "author": "chuky (Haz-tu-liada al 14-02-2025)",
+    "author": "chuky (Haz-tu-liada al 15-02-2025)",
     "image": "https://www.soloboxeo.com/wp-content/uploads/2023/11/Baloncesto-y-Boxeo.jpg",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Contacto%20y%20Basket.w3u",
 "groups": [
@@ -15,21 +15,21 @@
                	       	   "url" : "https://flstv.online/embed/boxing.php",
              "isHost": "true"    
                     },{
-                   "name" : "1",
+                   "name" : "2",
                  "name": "Evento 1(op2)",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-               	       	       "url" :  "https://generalpilli.net/embed/g3cxfy",
-		"referer" : "https://bedsport.live/",
-			 "isHost":"true"
+               	       	          "url" : "https://generalpilli.net/embed/h1gn2",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"
                      },{
-                   "name" : "52",
+                   "name" : "50",
                  "name": "Evento 1(op3)",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-               	       	 	       	    "url" : "https://generalpilli.net/embed/hvbzk77nd?skin=1",
-                                                          "referer" : "https://bedsport.live/",
-			 "isHost":"true"
+               	       	 	       	    "url" : "https://generalpilli.net/embed/k41eq86rgx9dlj",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"
                     },{
                  "name": "evento 2 MMA/UFC",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
@@ -71,27 +71,25 @@
 			  "referer" : "https://flstv.online/",
 			 "isHost":"true"
                       },{ 
-                             "name": "29",
+                             "name": "4",
                  "name": "evento 8 Boxeo",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  "url" :  "https://generalpilli.net/embed/dnva8",
-		"referer" : "https://bedsport.live/",
-			 "isHost":"true"
+                   "url" : "https://generalpilli.net/embed/taj6r",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"
                         },{ 
                                   "name": "6 sportson",
                  "name": "evento 9 Boxeo",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                     "url" :  "https://flstv.online//embed/boxing3.php",
-			  "referer" : "https://flstv.online/",
 			 "isHost":"true"
                         },{ 
                  "name": "evento 10 Boxeo",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                    "url" :  "https://flstv.online//embed/boxing2.php",
-			  "referer" : "https://flstv.online/",
 			 "isHost":"true"
                        },{ 
                  "name": "Evento 11 WWE",
