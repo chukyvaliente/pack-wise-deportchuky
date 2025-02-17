@@ -30,22 +30,22 @@
                                      }, {
                            "name": "Gol TV",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://zekonew.iosplayer.ru/zeko/premium530/mono.m3u8",
+               			"url" : "https://windnew.iosplayer.ru/wind/zeko/premium530/mono.m3u8",
 			"userAgent" : " "
                                       }, {
                            "name": "Movistar LaLiga",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://zekonew.iosplayer.ru/zeko/premium84/mono.m3u8",
+               			"url" : "https://windnew.iosplayer.ru/wind/premium84/mono.m3u8",
 			"userAgent" : " "  
                                          }, {
                            "name": "LaLiga SmartBank TV",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://zekonew.iosplayer.ru/zeko/premium539/mono.m3u8",
+               			"url" : "https://windnew.iosplayer.ru/wind/zeko/premium539/mono.m3u8",
 			"userAgent" : " "  
                                           }, {
                            "name": "LaLiga SmartBank TV 2",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://zekonew.iosplayer.ru/zeko/premium8/mono.m3u8",
+               			"url" : "https://windnew.iosplayer.ru/wind/zeko/premium8/mono.m3u8",
 			"userAgent" : " "  
                                              }, {
                            "name": "Movistar +",
@@ -75,7 +75,7 @@
                                                }, {
                                                       "name": "Vamos",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-			"url" : "https://zekonew.iosplayer.ru/zeko/premium521/mono.m3u8",
+			"url" : "https://windnew.iosplayer.ru/wind/premium521/mono.m3u8",
 			"userAgent" : " "  
                                             }, {
                            "name": "Movistar Campeones",
@@ -85,57 +85,57 @@
                                             }, {
                            "name": "Movistar golf",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-			"url" : "https://zekonew.iosplayer.ru/zeko/premium528/mono.m3u8",
+			"url" : "https://windnew.iosplayer.ru/wind/zeko/premium528/mono.m3u8",
 			"userAgent" : " "  
                                          }, {
                            "name": "Eurosport",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://zekonew.iosplayer.ru/zeko/premium524/mono.m3u8",
+               			"url" : "https://windnew.iosplayer.ru/wind/zeko/premium524/mono.m3u8",
 			"userAgent" : " "
                                             }, {
                            "name": "Eurosport 2",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://zekonew.iosplayer.ru/zeko/premium525/mono.m3u8",
+               			"url" : "https://windnew.iosplayer.ru/wind/zeko/premium525/mono.m3u8",
 			"userAgent" : " "
                                          }, {
                            "name": "DAZN 1",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://zekonew.iosplayer.ru/zeko/premium445/mono.m3u8",
+               			"url" : "https://windnew.iosplayer.ru/wind/zeko/premium445/mono.m3u8",
 			"userAgent" : " "
                                               }, {
                            "name": "DAZN 2",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://zekonew.iosplayer.ru/zeko/premium446/mono.m3u8",
+               			"url" : "https://windnew.iosplayer.ru/wind/zeko/premium446/mono.m3u8",
 			"userAgent" : " "
                                             }, {
                            "name": "DAZN 3",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://zekonew.iosplayer.ru/zeko/premium447/mono.m3u8",
+               			"url" : "https://windnew.iosplayer.ru/wind/zeko/premium447/mono.m3u8",
 			"userAgent" : " "
                                             }, {
                            "name": "DAZN 4",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://zekonew.iosplayer.ru/zeko/premium448/mono.m3u8",
+               			"url" : "https://windnew.iosplayer.ru/wind/zeko/premium448/mono.m3u8",
 			"userAgent" : " "
                                               }, {
                            "name": "DAZN LaLiga",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://zekonew.iosplayer.ru/zeko/premium538/mono.m3u8",
+               			"url" : "https://windnew.iosplayer.ru/wind/zeko/premium538/mono.m3u8",
 			"userAgent" : " "
                                            }, {
                            "name": "DAZN LaLiga 2",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://zekonew.iosplayer.ru/zeko/premium43/mono.m3u8",
+               			"url" : "https://windnew.iosplayer.ru/wind/zeko/premium43/mono.m3u8",
 			"userAgent" : " "
                                              }, {
                            "name": "DAZN Formula 1",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://zekonew.iosplayer.ru/zeko/premium537/mono.m3u8",
+               			"url" : "https://windnew.iosplayer.ru/wind/zeko/premium537/mono.m3u8",
 			"userAgent" : " "
                                                       }, {
                            "name": "Mundotoro",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://zekonew.iosplayer.ru/zeko/premium749/mono.m3u8",
+               			"url" : "https://windnew.iosplayer.ru/wind/zeko/premium749/mono.m3u8",
 			"userAgent" : " "
                                                              }]
 		               }]
