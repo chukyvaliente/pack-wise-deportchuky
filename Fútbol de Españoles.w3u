@@ -1,6 +1,6 @@
 {
 	"name": "Fútbol de Españoles",
-    "author": "chuky (Haz-tu-liada al 16-02-2025)",
+    "author": "chuky (Haz-tu-liada al 17-02-2025)",
     "image": "https://img.freepik.com/fotos-premium/balon-futbol-llamas-bola-fuego-al-fondo_553012-25661.jpg",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/F%C3%BAtbol%20de%20Espa%C3%B1oles.w3u",
     "groups": [
@@ -292,7 +292,7 @@
 			"name": "La Liga (opción 3)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" :  "https://0e7k3g57fx2qee.dynamicglance.net/embed/x2qidlx7",
+			  "url" :  "https://p2wxlv43iy2044.dynamicglance.net/embed/x2qidlx7",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
                          }, {
@@ -300,7 +300,7 @@
 			"name": "La Liga (opción 4)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                                       "url" :  "https://quickcast.click/steam.php?stream=4eLyr2RZq7v",
+                                                       "url" :  "https://letcast.pro/steam.php?stream=4eLyr2RZq7v",
 		                  "referer" : "https://hyperstream.click/",
 			 "isHost":"true"
                           }, {
@@ -326,8 +326,8 @@
 			"name": "La de España (opción 8)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" :  "https://streamtp3.com/global1.php?stream=movistarlaliga",
-                                                       "isHost" : "true" 
+			 "url" :  "https://hastycast.best/hls/377qj1h890g40.m3u8",
+                                                       "userAgent" : "" 
                                                         }, {
 			"name": "La de España 2",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
@@ -354,6 +354,12 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 	        "url" : "https://streamingon.org/embed/hd-2.php",
 			"isHost" : "true" 
+                            }, {
+			"name": "La de España (Inglés)",
+			"image": "https://i.ibb.co/H7cCHmf/la-liga.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+	        "url" : "https://clicknboyn.xyz/live/n-1/chunks.m3u8",
+			"userAgent" : ""   
 },
 ]},
 {			
