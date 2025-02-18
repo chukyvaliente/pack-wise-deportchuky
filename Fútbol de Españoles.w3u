@@ -1,6 +1,6 @@
 {
 	"name": "Fútbol de Españoles",
-    "author": "chuky (Haz-tu-liada al 17-02-2025)",
+    "author": "chuky (Haz-tu-liada al 18-02-2025)",
     "image": "https://img.freepik.com/fotos-premium/balon-futbol-llamas-bola-fuego-al-fondo_553012-25661.jpg",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/F%C3%BAtbol%20de%20Espa%C3%B1oles.w3u",
     "groups": [
@@ -176,77 +176,78 @@
 		"name": "Champion League  𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
 		"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		"stations": [{
-                                                         "name": "29", 
+                                                         "name": "28", 
                                                        "name": "Campeones 2",
-			"name": "Club Brugge vs Atalanta",
+			"name": "Milan vs Feyenoord",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                                                     "url" :  "https://generalpilli.net/embed/wnm78ydq",
-		                  "referer" : "https://bedsport.live/",
-			 "isHost":"true"
+                                                    "url" : "https://generalpilli.net/embed/swdrsibexfxe5wj?skin=1",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"
                     }, {
-			"name": "Club Brugge vs Atalanta",
+			"name": "Milan vs Feyenoord",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
            		                "url" :  "https://laceaccept.net/embed/g85mrc01p",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                     }, {
-                                                        "name": "29", 
+                                                        "name": "28", 
                                                        "name": "Campeones 2",
-			"name": "Feyenoord vs Milan",
+			"name": "Benfica vs Monaco",
                                                       "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
-			 "url" :  "https://generalpilli.net/embed/wnm78ydq",
-		                  "referer" : "https://bedsport.live/",
-			 "isHost":"true"
+			   "url" : "https://generalpilli.net/embed/swdrsibexfxe5wj?skin=1",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"
                    }, {
-                                                      "name": "Feyenoord vs Milan",
+                                                      "name": "Benfica vs Monaco",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                   "url" :  "https://laceaccept.net/embed/g85mrc01p",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                                    }, {
                                                       "name": "Campeones",
-			"name": "Celtic vs Bayern München",
+			"name": "Bayern München vs Celtic",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			"url" :  "https://laceaccept.net/embed/zh44pyu5dpby",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                      }, {
                                                       "name": "Campeones",
-			"name": "Celtic vs Bayern München",
+			"name": "Bayern München vs Celtic",
                                                       "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
 			"url" :  "https://streamingon.org/embed/hd-1.php",
 			 "isHost":"true"
                                                    }, {
 			"name": "apsg",
-			"name": "Celtic vs Bayern München",
+			"name": "Bayern München vs Celtic",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		      	 "url" :  "https://freckledine.net/embed/x2qidlx7",
 		                   "referer" : "https://www.elixx.xyz/",
 			 "isHost":"true"
                        }, {
 			"name": "sportzonline",             
-			"name": "Celtic vs Bayern München",
+			"name": "Bayern München vs Celtic",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 	                                    "url" :  "https://forgepattern.net/embed/l57xdb4wvi930cf",
 		                   "referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
                           }, {
-                                                      "name": "Campeones 3 19",
-			"name": "Celtic vs Bayern München",
+                                                      "name": "Campeones 19",
+			"name": "Bayern München vs Celtic",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                  "url" : "https://generalpilli.net/embed/av8q3fwxcb", 
                                                       "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                           }, {
+                                                "name" : "29",
                                                       "name": "Campeones 3 ",
-			"name": "Monaco vs Benfica",
+			"name": "Atalanta vs Club Brugge",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                   "url" :  "https://generalpilli.net/embed/swdrsibexfxe5wj?skin=1",
-		                  "referer" : "https://bedsport.live/",
-			 "isHost":"true"
+		                   "url" : "https://generalpilli.net/embed/wnm78ydq",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"
                      }, {
                                                       "name": "Campeones 3",
-			"name": "Monaco vs Benfica",
+			"name": "Atalanta vs Club Brugge",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			"url" :  "https://laceaccept.net/embed/r0zijuje2llg07a",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
