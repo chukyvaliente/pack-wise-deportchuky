@@ -1,6 +1,6 @@
 {
 	"name": "Fútbol de Españoles",
-    "author": "chuky (Haz-tu-liada al 27-02-2025)",
+    "author": "chuky (Haz-tu-liada al 28-02-2025)",
     "image": "https://img.freepik.com/fotos-premium/balon-futbol-llamas-bola-fuego-al-fondo_553012-25661.jpg",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/F%C3%BAtbol%20de%20Espa%C3%B1oles.w3u",
     "groups": [
@@ -329,6 +329,14 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			 "url" :  "https://hastycast.pro/hls/377qj1h2727.m3u8",
                                                        "userAgent" : "" 
+                                               }, {
+                        "name": "29)",
+			"name": "La de España (opción 9)",
+			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			 "url" : "https://generalpilli.net/embed/wnm78ydq",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"
                                                         }, {
 			"name": "La de España 2",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
