@@ -1,6 +1,6 @@
 {
 	"name": "DAZN/Motor/Being",
-    "author": "chuky (Haz-tu-liada al 27-02-2025)",
+    "author": "chuky (Haz-tu-liada al 28-02-2025)",
     "image": "https://cdn.valenciaplaza.com/public/Image/2023/1/fotonoticia_20230119163354_1920_NoticiaAmpliada.jpg",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Being.w3u",
 "groups": [
@@ -75,11 +75,11 @@
 		        "referer": "https://tarjetarojaenvivo.lat/",
              "isHost": "true"
 			}, {
-                      "name": "29",
+                      "name": "30",
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	  "url" : "https://generalpilli.net/embed/wnm78ydq",
+	"url" : "https://generalpilli.net/embed/fgvd9mt1",
                   "referer" : "https://bedsport.live/",
             "isHost": "true"
                          },{ 
@@ -268,14 +268,6 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
              			  "url": " https://atres-live.atresmedia.com/7dbeee8d48cffa257ae0fc1afc2efee81d64c42c_ES_1731763322_1731792062/h264/live/lasexta/bitrate_3.m3u8",
 			"userAgent": ""   
-                       }, {
-			"name": "29",        
-			"name": "Moto GP",
-			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                          "url" : "https://generalpilli.net/embed/wnm78ydq",
-                    "referer" : "https://bedsport.live/",
-			"isHost" : "true"
                       }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
@@ -284,12 +276,13 @@
                "referer" : "https://hoyfutbol.info/",
 			"isHost": "true" 
                       }, {
+                       "name": "30",  
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                        "url" : "https://generalpilli.net/embed/av8q3fwxcb",
-             "referer" : "https://bedsport.live/",
-            "isHost": "true"  
+                   "url" : "https://generalpilli.net/embed/fgvd9mt1",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"
                       }, {
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
@@ -303,37 +296,45 @@
                        "url" : "https://new.misshit.top/hembedplayer/gdthj8jmhgya/4/500/400",
                     "referer" : "https://watch.ballout.xyz/",
 			"isHost" : "true"
-                      }, {
-			"name": "Moto GP",
-			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                       "url" : "https://tutvlive.info/mpd/tvfhd.php?sTL3?id=445",
-                    "referer" : "https://www.sportsbay.dk/",
-			"isHost" : "true"
+         }, {
+			"name": "Motor Manu (Android-1080)",		
+                      "image":"https://i.ibb.co/QryttWh/Motor-Manu.jpg",
+                                                     "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",	 "url":"https://vkvsd217.okcdn.ru/hls/7644834957850.m3u8/sig/1FETU9hXAgc/srcIp/37.14.45.69/urls/185.226.55.77/expires/1738247171303/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/8996585679642/id/7644834957850/7644834957850_fullhd/index.m3u8",
+             "userAgent": ""	
+                         }, {
+			"name": "Motor Manu (Android-720)",		
+                      "image":"https://i.ibb.co/QryttWh/Motor-Manu.jpg",
+                                                     "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",	 "url":"https://vkvsd217.okcdn.ru/hls/7644834957850.m3u8/sig/1FETU9hXAgc/srcIp/37.14.45.69/urls/185.226.55.77/expires/1738247171303/clientType/14/srcAg/CHROME_ANDROID/fromCache/1/mid/8996585679642/id/7644834957850/7644834957850_fullhd/index.m3u8",
+             "userAgent": ""	 
+                       }, {
+			"name": "Motor Manu (Iphone-1080)",		
+                      "image":"https://i.ibb.co/QryttWh/Motor-Manu.jpg",
+                                                     "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",	 "url":"https://vkvsd217.okcdn.ru/hls/7644834957850.m3u8/sig/zGPoLe_o1XU/expires/1737874335746/srcIp/37.14.45.69/urls/185.226.55.77/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/8996585679642/7644834957850_fullhd/index.m3u8",
+             "userAgent": ""	
+                         }, {
+			"name": "Motor Manu (Iphone-720)",		
+                      "image":"https://i.ibb.co/QryttWh/Motor-Manu.jpg",
+                                                     "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",	 "url":"https://vkvsd217.okcdn.ru/hls/7644834957850.m3u8/sig/zGPoLe_o1XU/expires/1737874335746/srcIp/37.14.45.69/urls/185.226.55.77/clientType/14/srcAg/SAFARI_IPHONE_OTHER/mid/8996585679642/7644834957850_fullhd/index.m3u8",
+             "userAgent": ""	
           }, {
 			"name": "Moto (extranjero)",
 			"image": "https://sport-onthebox.com/wp-content/uploads/2021/02/WEB_1-720x399.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" : "https://forgepattern.net/embed/xim5l82td952sj6",
+			 "url" : "https://forgepattern.net/embed/485ayycb",
                          "referer" : "https://www.elixx.xyz/",
              "isHost": "true"  
 		 }, {
 			"name": "Moto (extranjero)",
 			"image": "https://sport-onthebox.com/wp-content/uploads/2021/02/WEB_1-720x399.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		"url" : "https://emb.apl357.me/player/live.php?id=224553&w=100%&h=100%",
-			 "isHost":"true"  
-                                       }, {
-			"name": "AMA Motocross",
-			"image": "https://ih1.redbubble.net/image.1574965289.8501/raf,750x1000,075,t,101010:01c5ca27c6.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		"url" : "https://p@fs.fscdn.fun/event1-peacock/tracks-v1a1/mono.m3u8",
-			 "userAgent":""  
+		  "url" :  "https://jointexploit.net/embed/kw6ef0n921mnbf0",
+		"referer" : "https://buzztv.futbol/",
+			 "isHost":"true" 
                                     }, {
 			"name": "AMA Motocross (Móvil/PC)",
 			"image": "https://ih1.redbubble.net/image.1574965289.8501/raf,750x1000,075,t,101010:01c5ca27c6.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		"url" : "https://dante4jgp.settlespiderkrcx5k.shop/es/motorsport/ama-supercross-1848124/round-1.html?icg=R0I&ilang=es",
+		"url" : "https://dante4jgp.settlespiderkrcx5k.shop/es/motorsport/ama-supercross-1873428/round-1.html?icg=R0I&ilang=es",
 			 "embed":"true"
 },
 ]},
