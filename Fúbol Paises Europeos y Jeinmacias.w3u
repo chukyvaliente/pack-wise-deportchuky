@@ -1,6 +1,6 @@
 {
 	"name": "Fúbol Paises Europeos y Jeinmacias",
-    "author": "chuky (Haz-tu-liada al 01-03-2025)",
+    "author": "chuky (Haz-tu-liada al 02-03-2025)",
     "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1o7LDu.img?w=768&h=432&m=6",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/F%C3%BAbol%20Paises%20Europeos%20y%20Jeinmacias.w3u",
 "groups": [
@@ -18,17 +18,33 @@
         "url": "https://forgepattern.net/embed/2zy981htw4ee",
         "referer" : "https://www.elixx.xyz/",
              "isHost": "true" 
-          }, {
+            }, {
 			 "name": "dortmund",
 			"name": "Opción - 2",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url": "https://forgepattern.net/embed/xim5l82td952sj6",
 			"referer": "https://elixx.xyz/",
-             "isHost": "true" 
+             "isHost": "true"  
+          }, {
+			 "name": "8",
+			"name": "Opción - 3",
+			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			 "url" : "https://generalpilli.net/embed/ae29jk4n",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"
+       }, {
+			 "name": "9",
+			"name": "Opción - 4",
+			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			 "url" : "https://generalpilli.net/embed/ueahi0mkr3",
+                  "referer" : "https://bedsport.live/",
+            "isHost": "true"  
           }, {
                         "name": "Lazio",
-			"name": "Opción - 3",
+			"name": "Opción - 5",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			 "url" : "https://forgepattern.net/embed/x3euisb4tt7",
@@ -36,7 +52,7 @@
                           "isHost":"true"
            }, {
    "name": "juventus",
-			"name": "Opción - 4",
+			"name": "Opción - 6",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url": "https://forgepattern.net/embed/ww6frra9pf",
@@ -44,7 +60,7 @@
              "isHost": "true"  
           }, {
                         "name": "everton",
-			"name": "Opción - 5",
+			"name": "Opción - 7",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url": "https://forgepattern.net/embed/40ltfs8ms26hmy",
@@ -52,7 +68,7 @@
              "isHost": "true" 
                                          }, {
                         "name": "everton",
-			"name": "Opción - 6",
+			"name": "Opción - 8",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url": "https://generalpilli.net/embed/vxf0bjocis",
@@ -60,7 +76,7 @@
              "isHost": "true" 
                                 }, {
                         "name": "partizan",
-			"name": "Opción - 7",
+			"name": "Opción - 9",
 			"image": "https://www.shutterstock.com/image-photo/munich-ger-july-2022-closeup-600nw-2213006283.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url": "https://generalpilli.net/embed/ugce3jz6chx",
@@ -77,7 +93,7 @@
 	                "name": "(DAZN 1)",
 			"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			   "url" : "https://forgepattern.net/embed/h5m4gyv36vtc",
+			   "url" : "https://forgepattern.net/embed/ekm9z79niibzy",
 		        "referer": "https://tarjetarojaenvivo.lat/",
              "isHost": "true"
                       }, {
@@ -96,13 +112,13 @@
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                     }, {
-                                                     "name": "27",  
+                                                     "name": "palo",  
 			"name": "(DAZN 2)",
 			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
- 			 "url" : "https://generalpilli.net/embed/re856noa",
-                  "referer" : "https://bedsport.live/",
-            "isHost": "true"
+ 			    "url" : "https://new.alldown.xyz/hembedplayer/fgrhyfj3bgfh/4/500/400",
+                              "referer" : "https://new.alldown.xyz/fgrhyfj3bgfh",
+             "isHost": "true"
                 }, {
 			"name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
@@ -245,6 +261,7 @@
 		"stations": [
 		{
  			"name": "10",
+                       "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
           "url" : "https://generalpilli.net/embed/jwpz3ec0iqz",
@@ -271,7 +288,7 @@
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                              "url" :  "https://linearroute.net/embed/wz71up1ag8",
+                                              "url" :  "https://forgepattern.net/embed/wz71up1ag8",
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true" 
                 }, {
@@ -279,15 +296,15 @@
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" :  "https://linearroute.net/embed/ljtwme",
+			 "url" :  "https://forgepattern.net/embed/ljtwme",
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                        }, {
-			"name": "2",
+			"name": "21",
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			      "url" : "https://generalpilli.net/embed/h1gn2",
+			     "url" : "https://generalpilli.net/embed/l9sfqfyguqpzc",
                   "referer" : "https://bedsport.live/",
             "isHost": "true"
              }, {
