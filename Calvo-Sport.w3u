@@ -1,6 +1,6 @@
 {
 	"name": "Deport-Mix / Calvo-Sport",
-    "author": "chuky (Haz-tu-liada al 03-03-2025)",
+    "author": "chuky (Haz-tu-liada al 04-03-2025)",
     "image": "https://i.ibb.co/qDPjMPk/deportes2.gif",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Calvo-Sport.w3u",
     "groups": [
@@ -86,12 +86,11 @@
 			"userAgent": ""
 		}, {
                                                       "name": "26",
-			"name": "M-F1",
-			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
+			"name": "Sky Sport-F1",
+			"image": "https://ibb.co/Jw3mk1QM",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" : "https://generalpilli.net/embed/3d44n21uf8pkocd",
-             "referer" : "https://bedsport.live/",
-            "isHost": "true"  
+			  "url" : "https://7pal.short.gy:443/ssportsf1",
+            "userAgent": "" 
         }, {
 			"name": "Euro-Sport 1",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
