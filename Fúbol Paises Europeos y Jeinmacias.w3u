@@ -1,6 +1,6 @@
 {
 	"name": "Fúbol Paises Europeos y Jeinmacias",
-    "author": "chuky (Haz-tu-liada al 03-03-2025)",
+    "author": "chuky (Haz-tu-liada al 08-03-2025)",
     "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1o7LDu.img?w=768&h=432&m=6",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/F%C3%BAbol%20Paises%20Europeos%20y%20Jeinmacias.w3u",
 "groups": [
@@ -148,6 +148,12 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
       "url" : "https://generalpilli.net/embed/swdrsibexfxe5wj?skin=1",
                   "referer" : "https://bedsport.live/",
+            "isHost": "true"
+                      }, {                                                   
+			"name": "(Universo)",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+      "url" : "https://streamdz4.lat/player/embed.php?channel=universo",
             "isHost": "true"
                    }, {
                         "name" : "ajax",
@@ -429,8 +435,15 @@
                   "name": "Evento 10",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://gabitotv.com/010.php",
-                  "referer" : "https://gabitotv.com/ch10.php",
+			              "url" : "https://benitotv.com/010.php",
+                  "referer" : "https://benitotv.com/ch10.php",
+            "isHost": "true" 
+                                             },{
+                  "name": "Evento 11",
+			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
+          "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			              "url" : "https://benitotv.com/011.php",
+                  "referer" : "https://benitotv.com/ch11.php",
             "isHost": "true" 
 			 },	
 ]}
