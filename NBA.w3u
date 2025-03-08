@@ -1,6 +1,6 @@
 {
 	"name": "Deportes EE.UU",
-    "author": "chuky (Haz-tu-liada al 03-03-2025)",
+    "author": "chuky (Haz-tu-liada al 08-03-2025)",
     "image": "https://thumbs.dreamstime.com/b/los-deportes-jugaron-en-los-estados-unidos-de-am%C3%A9rica-13821536.jpg",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/NBA.w3u",
 "groups": [
@@ -14,42 +14,42 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
 		}, {
-			"name": "Charlotte Hornets vs Golden State Warriors",
+			"name": "Charlotte Hornets vs Brooklyn Nets",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba1.php",
 			"isHost": "true"
                  }, {  
-                        "name": "Philadelphia 76ers vs Portland Trail Blazers",
+                        "name": "Houston Rockets vs New Orleans Pelicans",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba2.php",
 			"isHost": "true"
                }, {  
-                        "name": "Miami Heat vs Washington Wizards",
+                        "name": "Atlanta Hawks vs Indiana Pacers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba3.php",
 			"isHost": "true"
                }, {  
-                        "name": "Memphis Grizzlies vs Atlanta Hawks",
+                        "name": "Toronto Raptors vs Washington Wizards",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba4.php",
 			"isHost": "true"
               }, {
-			"name": "Oklahoma City Thunder vs Houston Rockets",
+			"name": "Miami Heat vs Chicago Bulls",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba5.php",
 			"isHost": "true"
              }, {
-			"name": "Dallas Mavericks vs Sacramento Kings",
+			"name": "Milwaukee Bucks vs Orlando Magic",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba6.php",
 			"isHost": "true"
               }, {  
-                         "name": "Utah Jazz vs Detroit Pistons",
+                         "name": "Boston Celtics vs Los Angeles Lakers",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba7.php",
 			"isHost": "true"
               }, {
-			"name": "",
+			"name": "Golden State Warriors vs Detroit Pistons",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba8.php",
 			"isHost": "true"
@@ -558,64 +558,64 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Washington Capitals vs Ottawa Senators",
+                        "name": "Ottawa Senators vs New York Rangers",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh1.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Montréal Canadiens vs Buffalo Sabres",
+                         "name": "Philadelphia Flyers vs Seattle Kraken",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh2.php/",
 			"isHost": "true"
                }, {  
-                         "name": "Florida Panthers vs Tampa Bay Lightning",
+                         "name": "Tampa Bay Lightning vs Boston Bruins",
+			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://flstv.online//embed/nh2.php/",
+			"isHost": "true"
+               }, {  
+                         "name": "Florida Panthers vs Buffalo Sabres",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh3.php/",
 			"isHost": "true"
-               }, {  
-                         "name": "New York Rangers vs New York Islanders",
+              }, {  
+                         "name": "Colorado Avalanche vs Toronto Maple Leafs",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh4.php/",
 			"isHost": "true"
-              }, {  
-                         "name": "Toronto Maple Leafs vs San Jose Sharks",
+              }, {
+			  "name": "Calgary Flames vs Montréal Canadiens",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh5.php/",
 			"isHost": "true"
-              }, {
-			  "name": "Chicago Blackhawks vs Los Angeles Kings",
+             }, {
+			"name": "Nashville Predators vs Chicago Blackhawks",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh6.php/",
 			"isHost": "true"
              }, {
-			"name": "",
+			"name": "Los Angeles Kings vs St. Louis Blues",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh7.php/",
 			"isHost": "true"
-             }, {
-			"name": "",
+              }, {
+			"name": "Edmonton Oilers vs Dallas Stars",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh8.php/",
 			"isHost": "true"
-              }, {
-			"name": "",
+               }, {
+			"name": "San Jose Sharks vs New York Islanders",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh9.php/",
-			"isHost": "true"
-               }, {
-			"name": "",
-			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://flstv.online//embed/nh10.php/",
 			"isHost": "true"
                }, {
 			"name": "",
