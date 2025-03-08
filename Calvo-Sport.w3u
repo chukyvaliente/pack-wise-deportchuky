@@ -1,6 +1,6 @@
 {
 	"name": "Deport-Mix / Calvo-Sport",
-    "author": "chuky (Haz-tu-liada al 05-03-2025)",
+    "author": "chuky (Haz-tu-liada al 08-03-2025)",
     "image": "https://i.ibb.co/qDPjMPk/deportes2.gif",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Calvo-Sport.w3u",
     "groups": [
@@ -224,7 +224,7 @@
                     "name": "ESPN2-Argentina",
                     "image": "https://imagizer.imageshack.com/v2/640x480q90/922/Svldvw.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                    "url" : "https://streamtp2.com/global1.php?stream=espn2",
+                    "url" : "https://streamdz4.lat/player/embed.php?channel=espn2",
 			 "isHost":"true"
                  },{
                     "name": "88", 
@@ -246,8 +246,62 @@
                     "name": "ESPN3-Argentina",
                     "image": "https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest?cb=20200211201137&path-prefix=es",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                  "url" : "https://streamtp2.com/global1.php?stream=espn3",
+                  "url" : "https://streamdz4.lat/player/embed.php?channel=espn3",
 			"isHost": "true"
+                     },{
+                    "name": "ESPN4-Argentina",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                  "url" : "https://streamdz4.lat/player/embed.php?channel=espn4",
+			"isHost": "true"
+                         },{
+                    "name": "ESPN5-Argentina",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                  "url" : "https://streamdz4.lat/player/embed.php?channel=espn5",
+			"isHost": "true"
+                       },{
+                    "name": "ESPN6-Argentina",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                  "url" : "https://streamdz4.lat/player/embed.php?channel=espn6",
+			"isHost": "true"
+                       },{
+                    "name": "ESPN7-Argentina",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1200px-ESPN_7_logo.svg.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                  "url" : "https://streamdz4.lat/player/embed.php?channel=espn7",
+			"isHost": "true"
+                        },{
+                    "name": "ESPN Premium-Argentina",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                  "url" : "https://streamdz4.lat/player/embed.php?channel=espnpremium",
+			"isHost": "true"
+                          },{
+                    "name": "Fox Sport-1",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                  "url" : "https://streamdz4.lat/player/embed.php?channel=foxar",
+			"isHost": "true"
+                       },{
+                    "name": "Fox Sport-2",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.pngg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                  "url" : "https://streamdz4.lat/player/embed.php?channel=fox2ar",
+			"isHost": "true"
+                        },{
+                    "name": "Fox Sport-3",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                  "url" : "https://streamdz4.lat/player/embed.php?channel=fox3ar,
+			"isHost": "true"
+                      }, {                                                   
+			"name": "(Universo)",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+      "url" : "https://streamdz4.lat/player/embed.php?channel=universo",
+            "isHost": "true"
                         }, {
 			"name": "TNT Sports",
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
