@@ -35,13 +35,15 @@
                                       }, {
                            "name": "Movistar LaLiga",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://windnew.iosplayer.ru/wind/premium84/mono.m3u8",
-			"userAgent" : " "  
+               		 "url" : "https://streamtp3.com/global1.php?stream=laligahypermotion",
+			 "referer" : "https://daddylive.mp/",
+			 "isHost":"true" 
                                          }, {
                            "name": "LaLiga SmartBank TV",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://windnew.iosplayer.ru/wind/zeko/premium539/mono.m3u8",
-			"userAgent" : " "  
+               		 "url" : "https://streamtp3.com/global1.php?stream=laligahypermotion",
+			 "referer" : "https://daddylive.mp/",
+			 "isHost":"true"
                                           }, {
                            "name": "LaLiga SmartBank TV 2",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
@@ -50,8 +52,9 @@
                                              }, {
                            "name": "Movistar +",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://zekonew.iosplayer.ru/zeko/premium437/mono.m3u8",
-			"userAgent" : " "
+               					 "url" : "https://streamtp3.com/global1.php?stream=movistarlaliga",
+			 "referer" : "https://daddylive.mp/",
+			 "isHost":"true"
                                                }, {
                                                       "name": "Movistar Deportes",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
