@@ -83,8 +83,9 @@
                                             }, {
                            "name": "Movistar Campeones",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-			"url" : "https://zekonew.iosplayer.ru/zeko/premium435/mono.m3u8",
-			"userAgent" : " "  
+			"url" : "https://streamtp3.com/global1.php?stream=movistarligadecampeones",
+			 "referer" : "https://daddylive.mp/",
+			 "isHost":"true"
                                             }, {
                            "name": "Movistar golf",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
