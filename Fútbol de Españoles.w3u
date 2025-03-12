@@ -220,14 +220,21 @@
                                                       "name": "Campeones 19",
 			"name": "Atlético Madrid vs Real Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                      "url" : "https://streamdz4.lat/player/embed.php?channel=espn2",
+		                      "url" : "https://streamdz4.lat/player/embed.php?channel=tudnusa",
 			 "isHost":"true"
                              }, {
                                                       "name": "Campeones",
 			"name": "Atlético Madrid vs Real Madrid",
                                                       "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
 			 "url" : "https://wo.cma.footballii.ir/hls2/broken1_src.m3u8",
-			 "userAgent":""
+			 "userAgent":" "
+                                  }, {
+                                                      "name": "Campeones",
+			"name": "Atlético Madrid vs Real Madrid",
+                                                      "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
+                                   "url" : "https://generalpilli.net/embed/fgvd9mt1", 
+                         "referer" : "https://bedsport.live/",
+			"isHost" : "true"
                                                    }, {
 			"name": "apsg",
 			"name": "Atlético Madrid vs Real Madrid",
