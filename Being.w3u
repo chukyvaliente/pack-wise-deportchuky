@@ -1,6 +1,6 @@
 {
 	"name": "DAZN/Motor/Being",
-    "author": "chuky (Haz-tu-liada al 12-03-2025)",
+    "author": "chuky (Haz-tu-liada al 14-03-2025)",
     "image": "https://cdn.valenciaplaza.com/public/Image/2023/1/fotonoticia_20230119163354_1920_NoticiaAmpliada.jpg",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Being.w3u",
 "groups": [
@@ -220,14 +220,14 @@
 			"name": "M-F1-Inglés",
 			"image": "https://www.cable.co.uk/images/content/sky_sport_f1_logo_header_landscape_min.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://flstv.online//embed/formula1.php",
-		"referer" : "https://flstv.online/",
+          "url" :  "https://flstv.online//embed/f1.php",
 			 "isHost":"true"
 		}, {
 			"name": "M-F1-Inglés",
 			"image": "https://www.cable.co.uk/images/content/sky_sport_f1_logo_header_landscape_min.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           		 "url" :  "https://usgate.xyz/z/p2p/az10.php",
+           		 "url" :  "https://apex2nova.com/premium.php?player=desktop&live=skysfor1",
+                           "referer" : "https://stream.crichd.sc/",
 			 "isHost":"true"  
                                          }, {
 			"name": "Motor Manu (Android)",		
@@ -270,9 +270,8 @@
 			"name": "Moto GP",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-         				 "url": "https://forgepattern.net/embed/485ayycb",
-               "referer" : "https://hoyfutbol.info/",
-			"isHost": "true" 
+         				  "url" : "https://streamdz4.lat/player/embed.php?channel=dazn1",
+			"isHost" : "true"
                       }, {
                        "name": "30",  
 			"name": "Moto GP",
@@ -281,21 +280,6 @@
                    "url" : "https://generalpilli.net/embed/fgvd9mt1",
                   "referer" : "https://bedsport.live/",
             "isHost": "true"
-                      }, {
-                         "name": "palo",
-			"name": "Moto GP",
-			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-        "url" : "https://new.alldown.xyz/hembedplayer/hgfxhgh7/4/500/400",
-                    "referer" : "https://new.alldown.xyz/hgfxhgh7",
-			 "isHost":"true"  
-                      }, {
-			"name": "Moto GP",
-			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                       "url" : "https://new.alldown.xyz/hembedplayer/gdthj8jmhgya/4/500/400",
-                    "referer" : "https://new.alldown.xyz/",
-			"isHost" : "true"
          }, {
 			"name": "Motor Manu (Android-1080)",		
                       "image":"https://i.ibb.co/QryttWh/Motor-Manu.jpg",
