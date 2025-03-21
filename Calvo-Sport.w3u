@@ -1,6 +1,6 @@
 {
 	"name": "Deport-Mix / Calvo-Sport",
-    "author": "chuky (Haz-tu-liada al 19-03-2025)",
+    "author": "chuky (Haz-tu-liada al 21-03-2025)",
     "image": "https://i.ibb.co/qDPjMPk/deportes2.gif",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Calvo-Sport.w3u",
     "groups": [
@@ -90,8 +90,8 @@
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" : "https://streamdz4.lat/player/embed.php?channel=daznf1",
-            "isHost": "true"   
+			  "url" : "https://tv1.strm2234.xyz/f1/index.m3u8",
+           "userAgent": ""
 		}, {
 			"name": "Sky Sport-F1",
 			"image": "https://i.ibb.co/67XrsMBf/IMG-20250304-233604-410.png",
@@ -145,7 +145,7 @@
 			 "name": "Toros",
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-      "url": "https://moonlight.wideiptv.top/OneToro/index.fmp4.m3u8?token=921f6f36b0122ca97b1704c0fe7897420bb4c659-41a8f2f17dac5f17eec7460acfb8a3ec-1742487313-1742476513",
+      "url": "https://moonlight.wideiptv.top/OneToro/index.fmp4.m3u8?token=737770d0bb9fa6228882985511045d3c47b42bf8-a96e167b45c0e94cbd2938821104dc61-1742592823-1742582023",
                   "userAgent": ""
                          }, {
 			 "name": "Toros",
