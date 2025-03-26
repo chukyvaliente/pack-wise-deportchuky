@@ -1,6 +1,6 @@
 {
 	"name": "UFC/MMA/Boxeo/Basket",
-    "author": "chuky (Haz-tu-liada al 25-03-2025)",
+    "author": "chuky (Haz-tu-liada al 26-03-2025)",
     "image": "https://www.soloboxeo.com/wp-content/uploads/2023/11/Baloncesto-y-Boxeo.jpg",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Contacto%20y%20Basket.w3u",
 "groups": [
@@ -115,6 +115,7 @@
             "name": "La Liga Endesa/Euroliga 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
             "image": "https://i.ibb.co/J7ZM8v6/acb-euroliga.jpg",
             "stations": [{
+                       "name": "29",
                        "name": "Opción 1 (M-Deportes)",
                     "image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
@@ -138,11 +139,11 @@
                       "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                     },{ 
-                 "name": "59",     
+                 "name": "29",     
                  "name": "Opción 2(Vamos)",
                     "image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-              	 "url" : "https://nix1-dc4-cdnnew.koskoros.ru/nix1-dc4-cdn/mono59/mono.m3u8",
+              	 "url" : "https://nix1-dc4-cdnnew.koskoros.ru/nix1-dc4-cdn/mono29/mono.m3u8",
             "userAgent": ""
                        },{
                      "name": "lat63",
