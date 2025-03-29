@@ -1,6 +1,6 @@
 {
 	"name": "Fútbol de Españoles",
-    "author": "chuky (Haz-tu-liada al 25-03-2025)",
+    "author": "chuky (Haz-tu-liada al 29-03-2025)",
     "image": "https://img.freepik.com/fotos-premium/balon-futbol-llamas-bola-fuego-al-fondo_553012-25661.jpg",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/F%C3%BAtbol%20de%20Espa%C3%B1oles.w3u",
     "groups": [
@@ -306,13 +306,12 @@
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                                         }, {
-                        "name" : "40",
+                        "name" : "86",
 			"name": "La Liga (opción 2)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                    "url" : "https://generalpilli.net/embed/xdpq3ptcuts1qpp",
-                  "referer" : "https://bedsport.live/",
-            "isHost": "true"
+                                    "url" : "https://nix1-dc4-cdnnew.koskoros.ru/nix1-dc4-cdn/mono86/mono.m3u8",
+            "userAgent": ""
                           }, {
 			"name": "La Liga (sportzonline)",
 			"name": "La Liga (opción 3)",
@@ -361,18 +360,6 @@
 			"url" : "https://smoothindoor.net/embed/orfaxhrsmbdogv?color=45A5F4",
                       "referer" : "https://powerover.online/",
              "isHost": "true"
-                                        }, {
-			"name": "La de España (opción 10)",
-			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://streamdz4.lat/player/embed.php?channel=espndeportes",
-             "isHost": "true"
-                                   }, {
-			"name": "La de España (opción 11)",
-			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://streamdz4.lat/player/embed.php?channel=skymx",
-             "isHost": "true"
                                                         }, {
 			"name": "La de España 2",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
@@ -412,11 +399,11 @@
 		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png",
 		"info": "",
 		"stations": [{
-                                                      "name": "La 19", 
+                                                      "name": "La 26", 
 			"name": "La Seguda división España (opción 1)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-        		                    "url" : "https://generalpilli.net/embed/av8q3fwxcb",
+        		                  "url" : "https://generalpilli.net/embed/3d44n21uf8pkocd",
                   "referer" : "https://bedsport.live/",
             "isHost": "true"
                           }, {
@@ -455,11 +442,11 @@
 			         "url" : "https://streamdz4.lat/player/embed.php?channel=hypermotion",
 			 "isHost": "true"
                           }, {
-                                                      "name": "La 20",
+                                                      "name": "La 27",
 			"name": "La Seguda división España (opción 7)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			                "url" : "https://generalpilli.net/embed/uu8c1",
+			                 "url" : "https://generalpilli.net/embed/re856noa",
                   "referer" : "https://bedsport.live/",
             "isHost": "true"
 	              }, {
