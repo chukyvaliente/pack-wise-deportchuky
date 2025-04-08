@@ -1,6 +1,6 @@
 {
 	"name": "Fúbol Paises Europeos y Jeinmacias",
-    "author": "chuky (Haz-tu-liada al 06-04-2025)",
+    "author": "chuky (Haz-tu-liada al 08-04-2025)",
     "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1o7LDu.img?w=768&h=432&m=6",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/F%C3%BAbol%20Paises%20Europeos%20y%20Jeinmacias.w3u",
 "groups": [
@@ -371,77 +371,85 @@
                     "name": "Evento 1",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://lavents.la/ch40",
+			            "url" : "https://cdn.elverruca.io/01.php",
+                  "referer" : "https://cdn.elverruca.io/ch01.php",
             "isHost": "true" 
 				},{
                     "name": "Evento 2",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://benitotv.com/02.php",
-                  "referer" : "https://benitotv.com/ch02.php",
+			              "url" : "https://cdn.elverruca.io/02.php",
+                  "referer" : "https://cdn.elverruca.io/ch02.php",
             "isHost": "true" 
                                                       },{
                                        "name": "Evento 3",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://benitotv.com/03.php",
-                  "referer" : "https://benitotv.com/ch03.php",
+			              "url" : "https://cdn.elverruca.io/03.php",
+                  "referer" : "https://cdn.elverruca.io/ch03.php",
             "isHost": "true" 
 				},{
                    "name": "Evento 4",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://benitotv.com/05.php",
-                  "referer" : "https://benitotv.com/ch05.php",
+			              "url" : "https://cdn.elverruca.io/05.php",
+                  "referer" : "https://cdn.elverruca.io/ch05.php",
             "isHost": "true" 
                                           },{
                   "name": "Evento 5",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://benitotv.com/05.php",
-                  "referer" : "https://benitotv.com/ch05.php",
+			              "url" : "https://cdn.elverruca.io/05.php",
+                  "referer" : "https://cdn.elverruca.io/ch05.php",
             "isHost": "true" 
                                                                    }, {
                                      "name": "Evento 6",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://benitotv.com/06.php",
-                  "referer" : "https://benitotv.com/ch06.php",
+			              "url" : "https://cdn.elverruca.io/06.php",
+                  "referer" : "https://cdn.elverruca.io/ch06.php",
             "isHost": "true" 
                                                            },{
                   "name": "Evento 7",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://benitotv.com/07.php",
-                  "referer" : "https://benitotv.com/ch07.php",
+			              "url" : "https://cdn.elverruca.io//07.php",
+                  "referer" : "https://cdn.elverruca.io/ch07.php",
             "isHost": "true" 
                                                           },{
                   "name": "Evento 8",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://benitotv.com/08.php",
-                  "referer" : "https://benitotv.com/ch08.php",
+			              "url" : "https://cdn.elverruca.io/08.php",
+                  "referer" : "https://cdn.elverruca.io/ch08.php",
             "isHost": "true" 
                                           },{
                   "name": "Evento 9",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://benitotv.com/09.php",
-                  "referer" : "https://benitotv.com/ch09.php",
+			              "url" : "https://cdn.elverruca.io/09.php",
+                  "referer" : "https://cdn.elverruca.io/ch09.php",
             "isHost": "true" 
                                                           },{
                   "name": "Evento 10",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			             "url" : "https://cdn.elverruca.io/014.php",
-                  "referer" : "https://cdn.elverruca.io/014.php",
+			             "url" : "https://cdn.elverruca.io/010.php",
+                  "referer" : "https://cdn.elverruca.io/010.php",
             "isHost": "true" 
                                              },{
                   "name": "Evento 11",
 			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
           "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			              "url" : "https://cdn.elverruca.io/015.php",
-                  "referer" : "https://cdn.elverruca.io/015.php",
+			              "url" : "https://cdn.elverruca.io/011.php",
+                  "referer" : "https://cdn.elverruca.io/011.php",
+            "isHost": "true" 
+                                  },{
+                  "name": "Evento 12",
+			"image": "https://i.ibb.co/P4ZvBnP/jeinmacias.png",
+          "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			              "url" : "https://elverruca.io/012.php",
+                  "referer" : "https://elverruca.io/ch12.php",
             "isHost": "true" 
 			 },	
 ]}
