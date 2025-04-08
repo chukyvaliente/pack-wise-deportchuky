@@ -182,19 +182,6 @@
 			"url" :  "https://laceaccept.net/embed/zh44pyu5dpby",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
-                             }, {
-                                                      "name": "Campeones 19",
-			"name": "Arsenal vs Real Madrid",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                      "url" : "https://streamtp4.com/global2.php?stream=espn",
-                                  "referer" : "https://phd3.live/",
-			 "isHost":"true"
-                             }, {
-                                                      "name": "Campeones",
-			"name": "Arsenal vs Real Madrid",
-                                                      "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
-			 "url" : "https://jf1.naqsheala.com:999/hls/do28.m3u8?md5=bXyKOTAzZj__J1v93-PD2A&expires=1744139676",
-			 "userAgent":" "
                                   }, {
                                                       "name": "Campeones",
 			"name": "Arsenal vs Real Madrid",
@@ -216,6 +203,13 @@
 	                                    "url" :  "https://jointexploit.net/embed/x2qidlx7",
 		                   "referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
+                        }, {
+                                                      "name": "Campeones 19",
+			"name": "Arsenal vs Real Madrid",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		                      "url" : "https://streamtp4.com/global2.php?stream=espn",
+                                  "referer" : "https://phd3.live/",
+			 "isHost":"true"
                           }, {
                                                       "name": "Campeones 28",
 			"name": "Arsenal vs Real Madrid",
@@ -227,7 +221,7 @@
                                                       "name": "Campeones 19",
 			"name": "Arsenal vs Real Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                    "url" : "https://streamdz4.lat/player/embed.php?stream=movistarligadecampeones",
+		                    "url" : "https://streamtp4.com/global1.php?stream=movistarligadecampeones",
             "isHost":"true"  
                             }, {
                                                       "name": "Campeones",
