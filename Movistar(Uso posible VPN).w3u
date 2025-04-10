@@ -35,9 +35,8 @@
                                       }, {
                            "name": "Movistar LaLiga",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               		 "url" : "https://streamtp3.com/global1.php?stream=movistarlaliga",
-			 "referer" : "https://daddylive.mp/",
-			 "isHost":"true" 
+"url" : "https://windnew.newkso.ru/wind/premium436/mono.m3u8",
+			"userAgent" : "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 "  
                                          }, {
                            "name": "LaLiga SmartBank TV",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
@@ -150,8 +149,8 @@
                                                       }, {
                            "name": "Mundotoro",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://ddy6new.iosplayer.ru/ddy6/premium749/mono.m3u8",
-			"userAgent" : " "
+"url" : "https://windnew.newkso.ru/wind/premium749/mono.m3u8",
+			"userAgent" : "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 "  
                                                              }]
 		               }]
                                           } ]
