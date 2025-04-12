@@ -131,7 +131,7 @@
                                               }, {
                            "name": "DAZN LaLiga",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			 "url" : "https://windnew.newkso.ru/wind/premium538/mono.m3u8",
+               			 "url" : "https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                            }, {
                            "name": "DAZN LaLiga 2",
@@ -142,13 +142,12 @@
                                              }, {
                            "name": "DAZN Formula 1",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               			"url" : "https://webxzplay.cfd/maxsport.php?id=primadaznf1",
-			 "referer" : "https://abbasport.site",
-			 "isHost":"true"
+               			 "url" : "https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8",
+             "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                                       }, {
                            "name": "Mundotoro",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
- "url" : "https://windnew.newkso.ru/wind/premium749/mono.m3u8",
+ "url" : "https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8",
              "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                                                              }]
 		               }]
