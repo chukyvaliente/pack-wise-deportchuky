@@ -1,6 +1,6 @@
 {
 	"name": "Movistar(Uso posible VPN)",
-    "author": "chuky (Haz-tu-liada al 14-04-2025)",
+    "author": "chuky (Haz-tu-liada al 15-04-2025)",
     "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
     "url": "https://raw.githubusercontent.com/chukyvaliente/Movistar-P-VPN/refs/heads/main/Movistar(Uso%20posible%20VPN).w3u",
     "groups": [{
@@ -84,9 +84,8 @@
                                             }, {
                            "name": "Movistar Campeones",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-			"url" : "https://streamtp3.com/global1.php?stream=movistarligadecampeones",
-			 "referer" : "https://daddylive.mp/",
-			 "isHost":"true"
+			"url" : "https://zekonew.newkso.ru/zeko/premium435/mono.m3u8",
+			"userAgent" : "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 "  
                                             }, {
                            "name": "Movistar golf",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
