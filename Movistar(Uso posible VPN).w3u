@@ -63,8 +63,8 @@
                                             }, {
                                                      "name": "Movistar Deportes 2",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-			"url" : "https://zekonew.iosplayer.ru/zeko/premium438/mono.m3u8",
-			"userAgent" : " "  
+			"url" : "https://cdn.livetv852.me/webplayer2.php?t=ifr&c=2719074&lang=es&eid=288188599&lid=2719074&ci=215&si=3",
+			 "isHost":"true" 
                                              }, {
                                                       "name": "Movistar Deportes 3",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
