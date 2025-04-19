@@ -145,14 +145,15 @@
 			 "name": "Toros",
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-      "url": "https://moonlight.wideiptv.top/OneToro/index.fmp4.m3u8?token=918be0a6ad65395ffd70d6eb178ec31e3bee65ba-461c4bfca388d27571aa5608ee60e282-1745098885-1745088085",
-                  "userAgent": ""
+      "url": "https://moonlight.wideiptv.top/OneToro/embed.html?token=918be0a6ad65395ffd70d6eb178ec31e3bee65ba-461c4bfca388d27571aa5608ee60e282-1745098885-1745088085&remote=no_check_ip",
+                  "referer": "https://popcdn.day/"    
+                            "isHost":"true" 
                          }, {
 			 "name": "Toros",
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                            "url" : "https://www.kool.to/play/1442267705/index.m3u8",
-            "userAgent": ""    
+            "userAgent": " "
 			}, {
 			"name": "Toros-Telemadrid",
 			"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
