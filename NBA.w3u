@@ -88,6 +88,16 @@
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba14.php",
 			"isHost": "true" 
+                      }, {
+			"name": "NBA-1",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : " https://goaltide.org/events/nbastreams1/ ",
+			"isHost": "true"  
+                         }, {
+			"name": "NBA-2",
+			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
+			"url" : " https://goaltide.org/events/nbastreams2/ ",
+			"isHost": "true"  
 },
 ]},
 {			 
