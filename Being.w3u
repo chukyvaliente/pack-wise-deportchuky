@@ -232,9 +232,15 @@
 			"name": "M-F1-Inglés",
 			"image": "https://www.cable.co.uk/images/content/sky_sport_f1_logo_header_landscape_min.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           		 "url" :  "https://apex2nova.com/premium.php?player=desktop&live=skysfor1",
-                           "referer" : "https://stream.crichd.sc/",
-			 "isHost":"true"  
+           		 "url" :  "https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=EDwDFEPAqR7Uc54b86VVeA&expires=1745207154",
+			 "userAgent":""  
+                                   }, {
+			"name": "M-F1-Inglés",
+			"image": "https://www.cable.co.uk/images/content/sky_sport_f1_logo_header_landscape_min.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+          "url" :  "https://futuristicsfun.com/wiki.php?player=desktop&live=skysfor1",
+                     "referer" : "https://wikisport.best/",
+			 "isHost":"true"
                                          }, {
 			"name": "Motor Manu (Android)",		
                       "image":"https://i.ibb.co/QryttWh/Motor-Manu.jpg",
