@@ -208,11 +208,12 @@
             "isHost": "true"
         }, {
                         "name" : "48",
-			"name": "Opción 3+",
+			"name": "Opción 3",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-      "url" : "https://992.911turbo.net:8443/hls/od48.m3u8",
-            "userAgent": ""
+      "url" : "'https://n1n1.net/embed/5jhwxBOySjJ6w1IRwyDP",
+             "referer" : "https://bedsport.live/",
+            "isHost": "true"
 		}, {
                          "name" : "54",  
 			"name": "Opción 4",
