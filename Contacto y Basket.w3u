@@ -1,6 +1,6 @@
 {
 	"name": "UFC/MMA/Boxeo/Basket",
-    "author": "chuky (Haz-tu-liada al 15-04-2025)",
+    "author": "chuky (Haz-tu-liada al 20-04-2025)",
     "image": "https://www.soloboxeo.com/wp-content/uploads/2023/11/Baloncesto-y-Boxeo.jpg",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Contacto%20y%20Basket.w3u",
 "groups": [
@@ -35,7 +35,6 @@
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
            "url" :  "https://flstv.online//embed/ufc.php",
-		"referer" : "https://flstv.online/",
 			 "isHost":"true"
                     },{ 
                  "name": "evento 3 MMA/UFC",
@@ -94,20 +93,19 @@
                  "name": "Evento 11 WWE",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                   "url": "http://sportsurge.stream/embed/wwe2.php",
+                   "url": "https://flstv.online//embed/wwe2.php",
              "isHost":"true"
                        },{ 
                  "name": "Evento 12 WWE",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                   "url": "http://sportsurge.stream/embed/wwe3.php",
+                   "url": "https://flstv.online//embed/wwe3.php",
              "isHost":"true"
                        },{ 
                  "name": "Evento 13 WWE",
                     "image": "https://deportedecontacto.com/wp-content/uploads/Deportes-de-contacto-la-historia-jamas-contada.jpeg.webp",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                   "url": "http://sportsurge.stream/embed/wwe.php",
-                       "referer" : "https://flstv.online/",
+                   "url": "https://flstv.online//embed/wwe.php",
              "isHost":"true" 
 },
 ]},
