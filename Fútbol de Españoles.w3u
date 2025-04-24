@@ -341,7 +341,7 @@
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			 "url" :  "https://emb.apl375.me/player/live.php?id=236085&w=728&h=480",
-                                                       "userAgent" : "" 
+                                                       "isHost" : "true" 
                                                }, {
 			"name": "La de España (opción 9)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
@@ -355,6 +355,13 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://us.elverruca.ai/p/lam.html",
              "isHost": "true"
+                                                 }, {
+			"name": "La de España (opción 11)",
+			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			"url" : "https://letscast.pro/steam.php?stream=YJ8krnYwZrR",
+                              "referer" : "https://livestreams.click/",
+             "isHost": "true"  
                                                         }, {
 			"name": "La de España 2",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
