@@ -1,6 +1,6 @@
 {
 	"name": "Deportes EE.UU",
-    "author": "chuky (Haz-tu-liada al 20-04-2025)",
+    "author": "chuky (Haz-tu-liada al 28-04-2025)",
     "image": "https://thumbs.dreamstime.com/b/los-deportes-jugaron-en-los-estados-unidos-de-am%C3%A9rica-13821536.jpg",
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/NBA.w3u",
 "groups": [
@@ -97,7 +97,6 @@
 			"name": "NBA-2",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : " https://givemereddit.org/nba/timberwolves.html",
-                         "referer" : "https://givemeredditstreams.org/",
 			"isHost": "true"  
 },
 ]},
