@@ -13,23 +13,44 @@
                                    "name": "Partidos NBA 🏀",
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
+                }, {
+			"name": "Boston Celtics vs New York Knicks",
+			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
+			"url" : "https://flstv.online//embed/nba1.php",
+			"isHost": "true"
+                 }, {  
+                        "name": "Boston Celtics vs New York Knicks",
+			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
+			  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono4/mono.m3u8",
+            "userAgent": ""
+               }, {  
+                        "name": "Oklahoma City Thunder vs Denver Nuggets 🇪🇦",
+			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
+			  "url" : "https://wikinew.newkso.ru/wiki/movistardeportes/mono.m3u8",
+            "userAgent": ""
+               }, {  
+                        "name": "Oklahoma City Thunder vs Denver Nuggets 🇪🇦",
+			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
+			 "url" : "https://catercollege.net/embed/xfkc2i",
+		"referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
 		}, {
-			"name": "Oklahoma City Thunder vs Memphis Grizzlies",
+			"name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba1.php",
 			"isHost": "true"
                  }, {  
-                        "name": "Boston Celtics vs Orlando Magic",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba1.php",
 			"isHost": "true"
                }, {  
-                        "name": "Cleveland Cavaliers vs Miami Heat",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba2.php",
 			"isHost": "true"
                }, {  
-                        "name": "Houston Rockets vs Golden State Warriors",
+                        "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
 			"url" : "https://flstv.online//embed/nba2.php",
 			"isHost": "true"
