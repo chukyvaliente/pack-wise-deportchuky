@@ -224,6 +224,13 @@
                                                       "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
 			"url" :  "https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
 			"userAgent" : ""
+                             }, {
+			"name": "sportzonline",             
+			"name": "Internazionale VS Barcelona",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+	                                    "url" :  "https://streamingon.org/hls4.php?stream=HDGQ1",
+		                   "referer" : "https://streamingon.org/update/hd-1.php",
+			 "isHost":"true" 
                             }, {
                                                       "name": "23",
                                                       "name": "Simulcast",
