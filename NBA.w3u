@@ -16,13 +16,15 @@
                 }, {
 			"name": "Boston Celtics vs New York Knicks",
 			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
-			"url" : "https://flstv.online//embed/nba1.php",
+			"url" : "https://givemereddit.org/nba/celtics.html",
+                        "referer" : "https://givemeredditstreams.org/",
 			"isHost": "true"
                  }, {  
-                        "name": "Boston Celtics vs New York Knicks",
+                        "name": "Oklahoma City Thunder vs Denver Nuggets",
 			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
-			  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono4/mono.m3u8",
-            "userAgent": ""
+			"url" : "https://givemereddit.org/nba/thunder.html",
+                        "referer" : "https://givemeredditstreams.org/",
+			"isHost": "true"
                }, {  
                         "name": "Oklahoma City Thunder vs Denver Nuggets 🇪🇦",
 			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
