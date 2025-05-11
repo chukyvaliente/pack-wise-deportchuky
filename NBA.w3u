@@ -14,15 +14,15 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
                 }, {
-			"name": "Boston Celtics at New York Knicks",
+			"name": "Cleveland Cavaliers contra Indiana Pacers",
 			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
-			"url" : "https://givemereddit.org/nba/knicks.html",
+			"url" : "https://givemereddit.org/nba/pacers.html",
                         "referer" : "https://givemeredditstreams.org/",
 			"isHost": "true"
                  }, {  
                         "name": "Minnesota Timberwolves at Golden State Warriors ",
 			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
-			"url" : "https://givemereddit.org/nba/timberwolves.html",
+			"url" : "https://givemereddit.org/nba/cavaliers.html",
                         "referer" : "https://givemeredditstreams.org/",
 			"isHost": "true"
                }, {  
