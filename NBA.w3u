@@ -14,24 +14,24 @@
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
                 }, {
-			"name": "Indiana Pacers en Cleveland Cavaliers",
+			"name": "New York Knicks @ Boston Celtics",
 			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
-			"url" : "https://givemereddit.org/nba/cavaliers.html",
+			  "url" : "https://givemereddit.org/nba/knicks.html",
                         "referer" : "https://givemeredditstreams.org/",
 			"isHost": "true"
                  }, {  
-                        "name": "Denver Nuggets en Oklahoma City Thunder",
+                        "name": "Golden State Warriors @ Minnesota Timberwolves",
 			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
-			 "url" : "https://givemereddit.org/nba/thunder.html",
+			  "url" : "https://givemereddit.org/nba/warriors.html",
                         "referer" : "https://givemeredditstreams.org/",
 			"isHost": "true"
                }, {  
-                        "name": "Indiana Pacers en Cleveland Cavaliers 🇪🇦",
+                        "name": "New York Knicks @ Boston Celtics 🇪🇦",
 			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
 			  "url" : "https://wikinew.newkso.ru/wiki/movistardeportes/mono.m3u8",
             "userAgent": ""
                }, {  
-                        "name": "Minnesota Timberwolves at Golden State Warriors  🇪🇦",
+                        "name": "Golden State Warriors @ Minnesota Timberwolves  🇪🇦",
 			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
 			 "url" : "https://catercollege.net/embed/xfkc2i",
 		"referer" : "https://tarjetarojaenvivo.lat/",
