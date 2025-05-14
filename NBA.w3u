@@ -16,13 +16,13 @@
                 }, {
 			"name": "Indiana Pacers en Cleveland Cavaliers",
 			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
-			"url" : "https://givemereddit.org/nba/Cavaliers.html",
+			"url" : "https://givemereddit.org/nba/cavaliers.html",
                         "referer" : "https://givemeredditstreams.org/",
 			"isHost": "true"
                  }, {  
                         "name": "Denver Nuggets en Oklahoma City Thunder",
 			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
-			 "url" : "https://givemereddit.org/nba/Thunder.html",
+			 "url" : "https://givemereddit.org/nba/thunder.html",
                         "referer" : "https://givemeredditstreams.org/",
 			"isHost": "true"
                }, {  
