@@ -42,10 +42,11 @@
 			"url" : "https://goalstreamz.com/events/stream1/",
 			"isHost": "true"
                  }, {  
-                        "name": "ey",
+                        "name": "y",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
-			"url" : "https://wikihznew.newkso.ru/wikihz/wiki68/mono.m3u8",
-			"userAgent": "navigator"
+			"url" : "https://ripplestream4u.shop/casting/stream-84.php",
+                        "referer" : "https://ripplehub.site/",
+			"isHost": "true"
                }, {  
                         "name": "",
 			"image": "https://st3.depositphotos.com/1022914/13991/v/600/depositphotos_139915512-stock-video-close-up-of-waving-flag.jpg",
