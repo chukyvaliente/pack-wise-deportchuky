@@ -13,27 +13,27 @@
                                    "name": "Partidos NBA 🏀",
 			"image": "https://img2.rtve.es/i/?w=1600&i=1605688322587.jpg",
 			"userAgent": ""
-                }, {
-			"name": "New York Knicks @ Boston Celtics",
+                 }, {
+			"name": "Oklahoma City Thunder - Denver Nuggets",
 			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
-			  "url" : "https://givemereddit.org/nba/celtics.html",
+			  "url" : "https://givemereddit.org/nba/thunder.html",
                         "referer" : "https://givemeredditstreams.org/",
 			"isHost": "true"
                  }, {  
-                        "name": "Golden State Warriors @ Minnesota Timberwolves",
+                        "name": "Oklahoma City Thunder - Denver Nuggets",
 			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
-			  "url" : "https://givemereddit.org/nba/timberwolves.html",
+			  "url" : "https://givemereddit.org/nba/nuggets.html",
                         "referer" : "https://givemeredditstreams.org/",
 			"isHost": "true"
                }, {  
-                        "name": "New York Knicks @ Boston Celtics 🇪🇦",
+                        "name": "Oklahoma City Thunder - Denver Nuggets 🇪🇦",
 			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
-			  "url" : "https://wikinew.newkso.ru/wiki/movistardeportes/mono.m3u8",
-            "userAgent": ""
+			  "url" : "https://windnew.newkso.ru/wind/premium521/mono.m3u8",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                }, {  
-                        "name": "Golden State Warriors @ Minnesota Timberwolves  🇪🇦",
+                        "name": "Oklahoma City Thunder - Denver Nuggets  🇪🇦",
 			"image": "https://cdn.nba.com/manage/2025/03/16x9-Safezone-1-1568x882.jpg",
-			 "url" : "https://catercollege.net/embed/xfkc2i",
+			 "url" : "https://catercollege.net/xdi01inxsjl7nik",
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
 		}, {
