@@ -18,7 +18,7 @@
  			"name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",    
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-            		    "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono78/mono.m3u8",
+            		    "url" : "https://wikinew.newkso.ru/wiki/movistarvamos/mono.m3u8",
             "userAgent": ""
 		}, {
 			"name": "M-Campeones ",
@@ -50,11 +50,12 @@
 			 "isHost":"true"
                             }, {  			
                                                        "name": "M-Deportes 28",
-			"name": "M-Deportes bis",
+			"name": "M-Deportes",
 			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                       "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono29/mono.m3u8",
-            "userAgent": ""
+                    "url" :  "https://bleedfilter.net/embed/fic72y7ypbq6",
+		"referer" : "https://powerover.online/",
+			 "isHost":"true"
                            }, {  			
                                                        "name": "M-Deportes 62",
 			"name": "M-Deportes",
@@ -433,28 +434,30 @@
 			"name": "TNT Sport 1",
 			"image": "https://media.info/l/o/1/1539.1690027797.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		"url" : "https://vodkapr3mium.com/embed.php?player=desktop&live=bbtsp1",
-			    "referer" : "https://techydeals.online/",
-			 "isHost":"true" 
+		   "url" :  "https://bleedfilter.net/embed/67xah9",
+		"referer" : "https://powerover.online/",
+			 "isHost":"true"
                                                     }, {
 			"name": "TNT Sport 2",
 			"image": "https://media.info/l/o/1/1540.1690027877.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      "url" : "https://techydeals.online/iframe/2.php",
-            "isHost": "true"  
+		   "url" :  "https://bleedfilter.net/embed/j3d0la2d68k0",
+		"referer" : "https://powerover.online/",
+			 "isHost":"true"
                                                  }, {
 			"name": "TNT Sport 3",
 			"image": "https://media.info/l/o/5/5712.1690027954.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		   "url" : "https://emb.apl375.me/player/live.php?id=236826&w=728&h=480",
-            "isHost": "true"  
+		   "url" :  "https://bleedfilter.net/embed/j3d0la2d68k0",
+		"referer" : "https://powerover.online/",
+			 "isHost":"true"
                                                 }, {
 			"name": "TNT Sport 4",
 			"image": "https://media.info/l/o/1/1491.1690027975.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-				"url" : "https://stream2wetch.top/live/dazn-1-spain-live-stream-free/",
-                                "referer" : " https://daddylive.mp/",
-			 "isHost":"true" 
+				   "url" :  "https://bleedfilter.net/embed/j3d0la2d68k0",
+		"referer" : "https://powerover.online/",
+			 "isHost":"true"
 },
 ]},
 {
