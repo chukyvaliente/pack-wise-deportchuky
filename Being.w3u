@@ -60,6 +60,24 @@
 		 "url" : "https://laceaccept.net/embed/ion9r5cmhen",
               "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
+                          }, {
+                         "name": "DAZN Liga 3",
+"image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono27/mono.m3u8",
+            "userAgent": "" 
+                   }, {
+                      "name": "DAZN Liga 4",
+"image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono75/mono.m3u8",
+            "userAgent": ""
+                          }, {
+                      "name": "DAZN Liga 5",
+"image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono79/mono.m3u8",
+            "userAgent": ""
                         }, {
                     "name": "DAZN 1",
                     "image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
