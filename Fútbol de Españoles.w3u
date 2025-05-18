@@ -185,7 +185,7 @@
 			"name": "La Liga (opción 2)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                    "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
+                                    "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono29/mono.m3u8",
             "userAgent": ""
                           }, {
 			"name": "La Liga (sportzonline)",
@@ -241,19 +241,43 @@
 			"url" : "https://bleedfilter.net/embed/orfaxhrsmbdogv?color=45A5F4",
                               "referer" : "https://powerover.online/",
              "isHost": "true"   
-                                    }, {
-			"name": "La Liga PC/Móvil (opción 10)",
-			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
+                                   }, {
+"name": "Multiliga",
+"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://leah.bbibnjsound1crmbmrain.shop/es/football/spanish-la-liga-3994846/g.html",
-             "embed": "true"   
+		 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono10/mono.m3u8",
+            "userAgent": ""
                                                         }, {
-			"name": "La de España 2",
+			"name": "M+ LALIGA TV 2",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			  "url" :  "https://laceaccept.net/embed/ikprof0g",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"  
+                                  }, {
+"name": "M+ LALIGA TV 2",
+"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono27/mono.m3u8",
+            "userAgent": ""
+                              }, {
+"name": "M+ LALIGA TV 3",
+"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono76/mono.m3u8",
+            "userAgent": ""
+                            }, {
+"name": "M+ LALIGA TV 4",
+"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono78/mono.m3u8",
+            "userAgent": ""
+                              }, {
+"name": "M+ LALIGA TV 5",
+"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono77/mono.m3u8",
+            "userAgent": ""
                           }, {
 			"name": "La de España (Inglés)",
 			"image": "https://i.ibb.co/H7cCHmf/la-liga.png",
@@ -283,14 +307,14 @@
 			"name": "La Seguda división España (opción 1)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono26/mono.m3u8",
+        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8",
             "userAgent": ""
                           }, {
 			"name": "La Seguda división España (opción 2)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	"url" : "https://streamingon.org/embed/hd-2.php",
-			"isHost" : "true"
+	    "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono29/mono.m3u8",
+            "userAgent": ""
                            }, {
                                                        "name": "La Seguda división España (opción 53)",
 			"name": "La Seguda división España (opción 3)",
