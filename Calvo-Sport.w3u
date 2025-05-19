@@ -431,8 +431,7 @@
 			"image": "https://media.info/l/o/1/1491.1690027975.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 				   "url" :  "https://piratcast.tv/papa.php?hd=14",
-		"referer" : "https://piratcast.tv/",
-			 "isHost":"true"
+			 "userAgent":"navigator"
 },
 ]},
 {
