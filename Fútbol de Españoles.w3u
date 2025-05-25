@@ -208,19 +208,6 @@
 			"url" : "https://bleedfilter.net/embed/orfaxhrsmbdogv?color=45A5F4",
                               "referer" : "https://powerover.online/",
              "isHost": "true"   
-                                   }, {
-"name": "Multiliga",
-"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono10/mono.m3u8",
-            "userAgent": ""
-                                      }, {
-			"name": "Multiliga",
-			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" :  "https://laceaccept.net/embed/8xjdm9xmx8ys",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"  
                                                         }, {
 			"name": "M+ LALIGA TV 2",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
@@ -233,53 +220,7 @@
 "image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono27/mono.m3u8",
-            "userAgent": ""
-                              }, {
-"name": "M+ LALIGA TV 3",
-"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono76/mono.m3u8",
-            "userAgent": ""
-                         }, {
-			"name": "M+ LALIGA TV 3",
-			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" :  "https://laceaccept.net/embed/ds13z4tuaur39",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"  
-                            }, {
-"name": "M+ LALIGA TV 4",
-"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono78/mono.m3u8",
-            "userAgent": ""
-                        }, {
-			"name": "M+ LALIGA TV 4",
-			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" :  "https://laceaccept.net/embed/g61pboptvk4v0",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"  
-                              }, {
-"name": "M+ LALIGA TV 5",
-"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono77/mono.m3u8",
-            "userAgent": ""
-                         }, {
-			"name": "M+ LALIGA TV 5",
-			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" :  "https://laceaccept.net/embed/5vl1f5yw",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"   
-                              }, {
-			"name": "M+ LALIGA TV 6",
-			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" :  "https://laceaccept.net/embed/eur8cbk",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"   
+            "userAgent": "" 
                           }, {
 			"name": "La de España (Inglés)",
 			"image": "https://i.ibb.co/H7cCHmf/la-liga.png",
@@ -305,55 +246,182 @@
 		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png",
 		"info": "",
 		"stations": [{
-                                                      "name": "La 27", 
-			"name": "La Seguda división España (opción 1)",
+                                                      "name": "La 89", 
+			"name": "LALIGA TV Hypermotion (opción 1)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8",
-            "userAgent": ""
-                          }, {
-			"name": "La Seguda división España (opción 2)",
-			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	    "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono28/mono.m3u8",
+        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono97/mono.m3u8",
             "userAgent": ""
                            }, {
                                                        "name": "La Seguda división España (opción 53)",
-			"name": "La Seguda división España (opción 3)",
+			"name": "LALIGA TV Hypermotion (opción 2)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			      "url" :  "https://laceaccept.net/embed/anirqn",
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                           }, {
-                        "name": "La Liga hipermotion 2",
-                                                       "name": "La Seguda división España (opción 54)",
-			"name": "La Seguda división España (opción 4)",
+                                                       "name": "LALIGA TV Hypermotion 2 (opción 54)",
+			"name": "LALIGA TV Hypermotion 2 (opción 2)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			       "url" :  "https://laceaccept.net/embed/8lix38pvrm4",
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
 	              }, {
-			"name": "La Seguda división España (opción 5)",
+			"name": "LALIGA TV Hypermotion 2 (opción 2)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-				  "url" :  "https://live.reddit-soccerstreamss.online/reddit/5.php",
-		"referer" : "https://tv3-sport.xyz/",
-			 "isHost":"true"
+				 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono22/mono.m3u8",
+            "userAgent": ""
                               }, {
-                          "name": "La 26", 
-			"name": "La Seguda división España (opción 6)",
+                          "name": "La 62", 
+			"name": "LALIGA TV Hypermotion 3 (opción 1)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono26/mono.m3u8",
+        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono62/mono.m3u8",
             "userAgent": ""
                                 }, {
-                                                       "name": "La Seguda división España (opción 36)",
-			"name": "La Seguda división España (opción 7)",
+                                                       "name": "La Seguda división España (opción 162)",
+			"name": "LALIGA TV Hypermotion 3 (opción 2)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			      "url" :  "https://bleedfilter.net/embed/j3d0la2d68k04",
+			      "url" :  "https://bleedfilter.net/embed/r0zijuje2llg07a",
+		"referer" : "https://powerover.online/",
+			 "isHost":"true"
+                            }, {
+                          "name": "La 74", 
+			"name": "LALIGA TV Hypermotion 4 (opción 1)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono74/mono.m3u8",
+            "userAgent": ""
+                                }, {
+                                                       "name": "La Seguda división España (opción 162)",
+			"name": "LALIGA TV Hypermotion 4 (opción 2)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			      "url" :  "https://bleedfilter.net/embed/ds13z4tuaur39a",
+		"referer" : "https://powerover.online/",
+			 "isHost":"true"
+                             }, {
+                          "name": "La 87", 
+			"name": "LALIGA TV Hypermotion 5 (opción 1)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono87/mono.m3u8",
+            "userAgent": ""
+                                }, {
+                                                       "name": "La Seguda división España (opción 165)",
+			"name": "LALIGA TV Hypermotion 5 (opción 2)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			      "url" :  "https://bleedfilter.net/embed/g61pboptvk4v0",
+		"referer" : "https://powerover.online/",
+			 "isHost":"true"
+                             }, {
+                          "name": "La 88", 
+			"name": "LALIGA TV Hypermotion 6 (opción 1)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono88/mono.m3u8",
+            "userAgent": ""
+                                }, {
+                                                       "name": "La Seguda división España (opción 166)",
+			"name": "LALIGA TV Hypermotion 6 (opción 2)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			      "url" :  "https://bleedfilter.net/embed/eur8cbk",
+		"referer" : "https://powerover.online/",
+			 "isHost":"true"
+                                }, {
+                          "name": "La 89", 
+			"name": "LALIGA TV Hypermotion 7 (opción 1)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono89/mono.m3u8",
+            "userAgent": ""
+                                }, {
+                                                       "name": "La Seguda división España (opción 167)",
+			"name": "LALIGA TV Hypermotion 7 (opción 2)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			      "url" :  "https://bleedfilter.net/embed/5vl1f5yw",
+		"referer" : "https://powerover.online/",
+			 "isHost":"true"
+                               }, {
+                          "name": "La 90", 
+			"name": "LALIGA TV Hypermotion 8 (opción 1)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono90/mono.m3u8",
+            "userAgent": ""
+                                }, {
+                                                       "name": "La Seguda división España (opción 168)",
+			"name": "LALIGA TV Hypermotion 8 (opción 2)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			      "url" :  "https://bleedfilter.net/embed/xhh0h43hpx2v7",
+		"referer" : "https://powerover.online/",
+			 "isHost":"true"
+                               }, {
+                          "name": "La 99", 
+			"name": "LALIGA TV Hypermotion 9 (opción 1)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono99/mono.m3u8",
+            "userAgent": ""
+                                }, {
+                                                       "name": "La Seguda división España (opción 169)",
+			"name": "LALIGA TV Hypermotion 9 (opción 2)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			      "url" :  "https://bleedfilter.net/embed/xitymii",
+		"referer" : "https://powerover.online/",
+			 "isHost":"true"
+                                }, {
+                          "name": "La 100", 
+			"name": "LALIGA TV Hypermotion 10 (opción 1)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono100/mono.m3u8",
+            "userAgent": ""
+                                }, {
+                                                       "name": "La Seguda división España (opción 168)",
+			"name": "LALIGA TV Hypermotion 10 (opción 2)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			      "url" :  "https://bleedfilter.net/embed/zh44pyu5dpby",
+		"referer" : "https://powerover.online/",
+			 "isHost":"true"
+                                 }, {
+                          "name": "La 98", 
+			"name": "LALIGA TV Hypermotion 11 (opción 1)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono98/mono.m3u8",
+            "userAgent": ""
+                                }, {
+                                                       "name": "La Seguda división España (opción 168)",
+			"name": "LALIGA TV Hypermotion 11 (opción 2)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			      "url" :  "https://bleedfilter.net/embed/zh44pyu5dpby",
+		"referer" : "https://powerover.online/",
+			 "isHost":"true"
+                             }, {
+                          "name": "La 97", 
+			"name": "LALIGA TV Hypermotion Simultaneo (opción 1)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono97/mono.m3u8",
+            "userAgent": ""
+                                }, {
+                                                       "name": "La Seguda división España (opción 168)",
+			"name": "LALIGA TV Hypermotion Simultaneo (opción 2)",
+			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			      "url" :  "https://bleedfilter.net/embed/anirqn",
 		"referer" : "https://powerover.online/",
 			 "isHost":"true"
 },
