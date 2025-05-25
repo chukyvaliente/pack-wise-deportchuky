@@ -247,11 +247,12 @@
 		"info": "",
 		"stations": [{
                                                       "name": "La 89", 
-			"name": "LALIGA TV Hypermotion (opción 1)",
+			"name": "LALIGA TV Hypermotion. (opción 1)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono97/mono.m3u8",
-            "userAgent": ""
+        		                  "url" : "https://businascart.com/embed3.php?player=desktop&live=do97",
+                                  "referer" : "https://evfancy.link/",
+            "isHost":"true"
                            }, {
                                                        "name": "La Seguda división España (opción 53)",
 			"name": "LALIGA TV Hypermotion (opción 2)",
