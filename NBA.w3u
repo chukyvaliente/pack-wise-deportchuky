@@ -436,19 +436,20 @@
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
             "stations": [{
-                        "name": "Carolina Hurricanes vs New Jersey Devils",
+                        "name": "Edmonton Oilers - Dallas Stars",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://flstv.online//embed/nh1.php/",
+			"url" : "https://catchthrust.net/embed/xfkc2i",
+                              "referer" : "https://rereyano.ru/",
 			"isHost": "true"
                }, {  
-                         "name": "Toronto Maple Leafs vs Ottawa Senators",
+                         "name": "Edmonton Oilers - Dallas Stars",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://flstv.online//embed/nh2.php/",
-			"isHost": "true"
+			"url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono2/mono.m3u8",
+			"userAgent": ""
                }, {  
-                         "name": "Vegas Golden Knights vs Minnesota Wild",
+                         "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 			"url" : "https://flstv.online//embed/nh1.php/",
