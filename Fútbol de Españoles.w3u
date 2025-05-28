@@ -11,8 +11,7 @@
 		"stations": [{
                                    "name": "Real Betis -Chelsea",
 			 "image": "https://i.ibb.co/b5jT8V4w/final-betis.jpg",
-               			"url" :  "https://catchthrust.net/embed/opthng68di66m",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
+               			"url" :  "https://emb.apl375.me/player/live.php?id=237860&w=728&h=480",
 			 "isHost":"true"
                                  }, {
                                  "name": "Real Betis -Chelsea",
@@ -58,6 +57,11 @@
 			 "image": "https://i.ibb.co/b5jT8V4w/final-betis.jpg",
 			"url" :  "https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
 			"userAgent" : ""
+                                           }, {
+                                                      "name": "Real Betis -Chelsea",
+			 "image": "https://i.ibb.co/b5jT8V4w/final-betis.jpg",
+			     "url" :  "https://emb.apl375.me/player/live.php?id=237966&w=728&h=480",
+			 "isHost":"true"  
 },
 ]},
 {			 
