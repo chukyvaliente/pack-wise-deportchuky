@@ -50,11 +50,16 @@
 			 "referer" : "https://daddylive.mp/",
 			 "isHost":"true"
                                              }, {
-                           "name": "Movistar +",
+                           "name": "Movistar ++",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-               					 "url" : "https://streamtp3.com/global1.php?stream=movistarlaliga",
+               					 "url" : "https://allupplay.xyz/daddylive.php?id=437",
 			 "referer" : "https://daddylive.mp/",
 			 "isHost":"true"
+                                             }, {
+                           "name": "Movistar ++",
+			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
+               					 "url" : "https://zekonew.newkso.ru/zeko/premium437/mono.m3u8",
+			 "userAgent":"https://daddylive.mp/"
                                                }, {
                                                       "name": "Movistar Deportes",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
