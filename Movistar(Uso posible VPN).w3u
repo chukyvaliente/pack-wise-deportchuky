@@ -87,10 +87,11 @@
 			 "referer" : "https://daddylive.mp/",
 			 "isHost":"true"
                                             }, {
-                           "name": "Movistar Campeones+",
+                           "name": "Movistar Campeones",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
-			"url" : "https://miztv.top/total/stream-437.php",
-			"embed" : "true"  
+			"url" : "https://playnow.wtf/player/ES/1955",
+			"referer" : "https://daddylive.dad/",
+                           "isHost" : "true"
                                             }, {
                            "name": "Movistar golf",
 			 "image": "https://i.ibb.co/7tpKHmVZ/Movistar.jpg",
