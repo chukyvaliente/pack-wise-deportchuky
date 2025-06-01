@@ -243,11 +243,10 @@
 		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png",
 		"info": "",
 		"stations": [{
-                                                      "name": "La 29", 
 			"name": "LALIGA TV Hypermotion+ (opción 1)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-        		                   "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono29/mono.m3u8",
+        		                   "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono28/mono.m3u8",
             "userAgent": ""
                            }, {
                                                        "name": "La Seguda división España (opción 53)",
@@ -269,14 +268,14 @@
 			"name": "LALIGA TV Hypermotion 2 (opción 2)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-				 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono22/mono.m3u8",
+				 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono27/mono.m3u8",
             "userAgent": ""
                               }, {
                           "name": "La 62", 
 			"name": "LALIGA TV Hypermotion 3 (opción 1)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono62/mono.m3u8",
+        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono30/mono.m3u8",
             "userAgent": ""
                                 }, {
                                                        "name": "La Seguda división España (opción 162)",
@@ -291,7 +290,7 @@
 			"name": "LALIGA TV Hypermotion 4 (opción 1)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono74/mono.m3u8",
+        		                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono54/mono.m3u8",
             "userAgent": ""
                                 }, {
                                                        "name": "La Seguda división España (opción 162)",
@@ -411,8 +410,8 @@
 			"name": "LALIGA TV Hypermotion Simultaneo (opción 1)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-        		                  "url" : "https://playnow.wtf/vip/ES/5506",
-            "embed": "true"
+        		                "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono28/mono.m3u8",
+            "userAgent": ""
                                 }, {
                                                        "name": "La Seguda división España (opción 168)",
 			"name": "LALIGA TV Hypermotion Simultaneo (opción 2)",
@@ -429,15 +428,15 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		"stations": [
 		{
-                    "name": "antequera-cf-vs-ponferradina",
+                    "name": "merida-ad-vs-real-sociedad-b",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
-          "url" :  "https://verns4y0.motiondriedzlqjp.shop/es/football/spanish-primera-division-rfef-4188193/r.html?icg=RVM&ilang=es",
+          "url" :  "https://verns4y0.motiondriedzlqjp.shop/es/football/spanish-primera-division-rfef-4188211/r.html?icg=RVM&ilang=es",
 			 "embed" : "true"   
 				},{
-                    "name": "",
+                    "name": "andorra-cf-vs-ibiza",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                    "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4024110/c.html?icg=RVM&ilang=es",
+          "url" :  "https://vidaonym.eightanybodya8fdsy.shop/es/football/spanish-primera-division-rfef-4188204/c.html?icg=RVM&ilang=es",
 			 "embed" : "true" 
                                                       },{
                                         "name": "",
