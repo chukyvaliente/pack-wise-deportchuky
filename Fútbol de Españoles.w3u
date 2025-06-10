@@ -6,69 +6,75 @@
     "groups": [
 {
 		"name": "Copa Libertadores 𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
-		"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png",
+		"image": "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg",
 		"info": "",
 		"stations": [{
-			"name": "Opción 1",
-			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png",
-			"url" :  "https://catchthrust.net/embed/dp4tigbdvjxr4l",
+			"name": "Finlandia - Polonia",
+			"image": "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg",
+			"url" :  "https://catchthrust.net/embed/a7hfuuu11vri",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                        }, {
-                              "name": "Opción 2",
-			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png",
+                              "name": "Finlandia - Polonia",
+			"image": "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg",
                			 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono32/mono.m3u8",
 			"userAgent" : ""
                                        }, {
-                              "name": "Opción 3",
-			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png",
-               			 "url" :  "https://freckledine.net/embed/xim5l82td952sj6",
+                              "name": "Holanda - Mañta",
+			"image": "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg",
+               			 "url" :  "https://freckledine.net/embed/2zy981htw4ee",
 		                   "referer" : "https://www.elixx.xyz/",
 			 "isHost":"true"
                                           }, {
-                                "name": "Opción 4",
-			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png",
-               			      "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono85/mono.m3u8",
+                                "name": "Holanda - Malta",
+			"image": "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg",
+               			      "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono31/mono.m3u8",
 			"userAgent" : ""
                                         }, {
-                                    "name": "Opción 5",
-			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png",
-               			     "url" :  "https://jointexploit.net/embed/57g57feq",
+                                    "name": "Rumania - Chipre",
+			"image": "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg",
+               			     "url" :  "https://jointexploit.net/embed/vndxx07b0",
 		                   "referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
                                          }, {
-                                        "name": "Opción 6",
-			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png",
-               			 "url" :  "https://freckledine.net/embed/x2qidlx7",
+                                        "name": "Rumania - Chipre",
+			"image": "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg",
+               			 "url" :  "https://freckledine.net/embed/k8lq8in1xkknj",
 		                   "referer" : "https://www.elixx.xyz/",
 			 "isHost":"true"
                                           }, {
-                                       "name": "Opción 7",
-			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png",
-			     "url" :  "https://jointexploit.net/embed/dm4f0c0bxcxxsau",
+                                       "name": "Serbia - Andorra",
+			"image": "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg",
+			     "url" :  "https://jointexploit.net/embed/qgdzborpo",
 		                   "referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
                                               }, {
-                                            "name": "Opción 8",
-			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png",
-			"url" :  "https://ddy6new.newkso.ru/ddy6/premium149/mono.m3u8",
+                                            "name": "Serbia - Andorra",
+			"image": "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg",
+			"url" :  "https://ddy6new.newkso.ru/ddy6/premium36/mono.m3u8",
 			"userAgent" : ""
                                                 }, {
-                                       "name": "Opción 9",
-			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png",
-			 "url" :  "https://catchthrust.net/embed/yyf4496w15",
+                                       "name": "San Marino - Austria",
+			"image": "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg",
+			 "url" :  "https://catchthrust.net/embed/4hkxq20b10a3u69",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
-                                           }, {
-                                            "name": "Opción Móvil/PC",
-			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png",
-			  "url" :  "https://lana2.kmi5qmtwiceau12bexercise.shop/es/football/conmebol-copa-libertadores-4157399/c.html",
-			 "embed":"true"  
-                                            }, {
-                                            "name": "Opción Móvil/PC",
-			"image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/1200px-Copa_Libertadores_logo.svg.png",
-			  "url" :  "https://lana2.kmi5qmtwiceau12bexercise.shop/es/football/conmebol-copa-libertadores-4157405/c.html",
-			 "embed":"true"  
+                                   }, {
+                                            "name": "San Marino - Austria",
+			"image": "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg",
+			"url" :  "https://ddy6new.newkso.ru/ddy6/premium33/mono.m3u8",
+			"userAgent" : ""
+                                   }, {
+                                       "name": "Letonia - Albania",
+			"image": "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg",
+			 "url" :  "https://catchthrust.net/embed/14726gmiict",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"
+                                   }, {
+                                            "name": "Letonia - Albania",
+			"image": "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg",
+			"url" :  "https://ddy6new.newkso.ru/ddy6/premium34/mono.m3u8",
+			"userAgent" : ""
 },
 ]},
 {			 
