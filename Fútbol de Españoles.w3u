@@ -15,9 +15,9 @@
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                        }, {
-                              "name": "Finlandia - Polonia",
+                              "name": "Romania U19 vs Spain U19",
 			"image": "https://editorial.uefa.com/resources/0299-1ddbad09d3de-a06a5b3fb191-1000/fbl-wc2026-eur-draw.jpeg",
-               			 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono32/mono.m3u8",
+               			 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono19/mono.m3u8",
 			"userAgent" : ""
                                        }, {
                               "name": "Holanda - Mañta",
