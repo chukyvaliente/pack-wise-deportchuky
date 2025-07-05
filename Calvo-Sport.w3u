@@ -86,12 +86,13 @@
 			"url": "https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr_720.m3u8",
 			"userAgent": ""
                  }, {
-                                                      "name": "26",
+                                                      "name": "28",
 			"name": "M-F1",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" : "http://432c1b8e.edmonst.net/iptv/82WLUSL4F5QKANT4R5W7YKFX/6071/index.m3u8",
-           "userAgent": ""
+			  "url" :  "https://bloodycount.net/embed/swdrsibexfxe5wj",
+			     "referer" : "https://bedsport.live/",
+					"isHost":"true"
 		}, {
 			"name": "Sky Sport-F1",
 			"image": "https://i.ibb.co/67XrsMBf/IMG-20250304-233604-410.png",
