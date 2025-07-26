@@ -179,9 +179,8 @@
                         "name": "M-F1(OP-4)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" : "https://vividmosaica.com/embed2.php?player=desktop&live=do30",
-			  "referer" : "https://vuen.link/",
-					"isHost":"true"
+			  "url" : "https://edge.esfutbollibre.com/live/ST7d65354eceeb07f.m3u8",
+			 "userAgent": ""
                                         }, {
                   	"name": "M-F1(OP-5)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
@@ -206,8 +205,8 @@
 			"name": "M-F1-Inglés",
 			"image": "https://www.cable.co.uk/images/content/sky_sport_f1_logo_header_landscape_min.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://googlapisapi.com/new-stream-embed/33695",
-                     "referer" : "https://1stream.eu/",
+          "url" :  "https://1.zhdcdn.zip/go.php?a=162",
+                     "referer" : "https://espngratis.com/",
 			 "isHost":"true"
                                          }, {
 			"name": "Motor Manu (Android)",		
@@ -245,8 +244,14 @@
 			"name": "Moto GP(Op Movi-PC 3)",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                   "url" : "https://emmasv3.fxmdvhay2kejpcidea.shop/es/motorsport/motogp-1946126/m1.html",
-            "embed": "true"
+                   "url" : "https://antenasport.org/dazn1.php",
+            "userAgent": "navigator"
+                             }, {
+			"name": "Moto GP(Op Movi-PC 3)",
+			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                   "url" : "https://fnjplay.xyz/maxsport.php?id=primadazn1",
+            "userAgent": "navigator"
                                  }, {
 			"name": "Moto GP (Op 4) ",
 			"image": "https://resources.motogp.pulselive.com/photo-resources/2023/07/17/1c5b4c8e-821d-495e-950b-2ae25717c014/motogp-logo.png?width=1200&height=630",
