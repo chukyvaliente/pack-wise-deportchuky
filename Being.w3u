@@ -37,6 +37,12 @@
 		"url" : "https://letscast.pro/steam.php?stream=YJ8krnYwZrR",
                               "referer" : "https://livestreams.click/",
              "isHost": "true"  
+                   }, {
+"name": "DAZN Liga",
+"image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		 "url" : "https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8",
+            "userAgent": ""
                          }, {
 "name": "DAZN Liga 2",
                     "image": "https://i.ibb.co/3cBzLwr/1-0-1-7691-41-E-1-C00000-0-0-0.png",
@@ -94,6 +100,13 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
                                  "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono28/mono.m3u8",
 			"userAgent" : ""
+                   },{ 
+                "name": "(DAZN 2)",
+			"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+                                       "url" : "https://tutvlive.xyz/mpd/tvfhd.php?sTL3?id=446",
+            "referer": "https://tutvlive.xyz/",
+                         "isHost" : "true"
 		     },{ 
                  "name": "(DAZN 3)",
                     "image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
@@ -161,7 +174,7 @@
             "referer":"https://tarjetarojaenvivo.lat/",
               "isHost" : "true"
               }, {
-          "name" : "28",
+          "name" : "29",
           "name": "M-F1(OP-2)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
@@ -179,7 +192,7 @@
                         "name": "M-F1(OP-4)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" : "https://edge.esfutbollibre.com/live/ST7d65354eceeb07f.m3u8",
+			  "url" : "https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8",
 			 "userAgent": ""
                                         }, {
                   	"name": "M-F1(OP-5)",
