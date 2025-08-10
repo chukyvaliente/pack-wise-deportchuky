@@ -166,7 +166,7 @@
                                      "name": "Barça One",
 			 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2N0R5vi9h0c5uq3CrwyO02Sjq9xqfFaN2Q&s",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-               			    "url": "	https://barcatvlive2.flumotion.cloud/barcatv/live2_high/chunks_dvr.m3u8",
+               			    "url" : "	https://barcatvlive2.flumotion.cloud/barcatv/live2_high/chunks_dvr.m3u8",
 			"userAgent": ""
 		}, {
 			"name": "Real MAdrid en la TV",
@@ -445,8 +445,7 @@
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGz1TZ99XmB1HtSu5yqnzZ5H0tXvWzcExuMQ&s",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 				  "url" :  "https://tiroalpalo.me/index.php?option=com_sppagebuilder&view=page&id=20",
-			 "userAgent":"navigator"
-]},
+			 "isHost":"true"
 {
                        "name":"Calvo-Sports(By Tiri)  𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
                        "image":"https://i.ibb.co/16pnWVV/calvo.jpg",
