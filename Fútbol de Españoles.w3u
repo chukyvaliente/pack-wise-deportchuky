@@ -5,41 +5,6 @@
     "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/F%C3%BAtbol%20de%20Espa%C3%B1oles.w3u",
     "groups": [
 {			 
-		"name": "FC Barcelona - Como  𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
-		"image": "https://f.rpp-noticias.io/2025/08/09/292529_1779058.jpg",
-		"stations": [{
-                                                      "name": "Mirar",
-			"name": "FC Barcelona - Como",
-			"image": "https://f.rpp-noticias.io/2025/08/09/292529_1779058.jpg",
-			       "url" :  "https://tiroalpalo.me/index.php?option=com_sppagebuilder&view=page&id=20",
-			 "userAgent":"navigator"
-                                  }, {
-                                                "name": "FC Barcelona - Como",
-			"image": "https://f.rpp-noticias.io/2025/08/09/292529_1779058.jpg",
-                                    "url" :  "https://laceaccept.net/embed/g85mrc01p",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"
-                                                   }, {
-			"name": "FC Barcelona - Como",
-			"image": "https://f.rpp-noticias.io/2025/08/09/292529_1779058.jpg",
-		      	 "url" :  "https://cheapmarket.blog/idea/?id=2",
-		                   "referer" : "https://live.totalsportekhd.com/",
-			 "isHost":"true"
-                       }, {
-			"name": "sportzonline",             
-			"name": "FC Barcelona - Como",
-			"image": "https://f.rpp-noticias.io/2025/08/09/292529_1779058.jpg",
-	                                    "url" :  "https://superiorcrop.net/embed/kw6ef0n921mnbf0",
-		                   "referer" : "https://buzztv.futbol/",
-			 "isHost":"true" 
-                        }, {
-			"name": "FC Barcelona - Como",
-			"image": "https://f.rpp-noticias.io/2025/08/09/292529_1779058.jpg",
-		                    "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono29/mono.m3u8",
-            "userAgent": ""
-},
-]},
-{			 
 		"name": "LaLiga EA Sports  𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
 		"image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2023/06/03/16857929786160.jpg",
 		"info": "",
@@ -56,8 +21,9 @@
 			"name": "La Liga (opción 2)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                    "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono86/mono.m3u8",
-            "userAgent": ""
+                                    "url" : "https://bloodycount.net/embed/e4ibxltyf3ea0",
+            "referert": "https://bedsport.live/",
+                             "isHost" : "true"  
                           }, {
 			"name": "La Liga (sportzonline)",
 			"name": "La Liga (opción 3)",
@@ -151,11 +117,13 @@
 		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png",
 		"info": "",
 		"stations": [{
+              "name" : "26"
 			"name": "LALIGA TV Hypermotion+ (opción 1)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-        		                   "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono28/mono.m3u8",
-            "userAgent": ""
+        		                   "url" : "https://bloodycount.net/embed/3d44n21uf8pkocd",
+            "referer": "https://bedsport.live/",
+                     "osHost" : "true"
                            }, {
                                                        "name": "La Seguda división España (opción 53)",
 			"name": "LALIGA TV Hypermotion (opción 2)",
@@ -173,11 +141,13 @@
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
 	              }, {
+             "name" : "28"
 			"name": "LALIGA TV Hypermotion 2 (opción 2)",
 			"image": "https://i.ibb.co/MnKv27c/1-0-1-7607-408-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-				 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono27/mono.m3u8",
-            "userAgent": ""
+				 "url" : "https://bloodycount.net/embed/swdrsibexfxe5wj",
+           "referer": "https://bedsport.live/",
+                     "osHost" : "true"
                               }, {
                           "name": "La 62", 
 			"name": "LALIGA TV Hypermotion 3 (opción 1)",
