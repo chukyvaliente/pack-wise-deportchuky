@@ -18,15 +18,16 @@
  			"name": "M-Vamos",
 			"image": "https://i.ibb.co/7b7t4kq/1-0-1-760-C-408-1-C00000-0-0-0.png",    
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-            		    "url" : "https://windnew.koskoros.ru/wind/premium521/mono.m3u8",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+            		   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 19_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/19.0 Mobile/15E148 Safari/604.1",
+"referer": "https://miztv.top",
+"url": "https://tutvlive.xyz/tvtodo/vamos.php",
+"isHost": "true"
 		}, {
 			"name": "M-Campeones ",
             "image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png", 
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		  "url" :  "https://bleedfilter.net/embed/lk3n6n9gy",
-			  "referer" : "https://powerover.online/",
-			 "isHost":"true"
+		"url": "https://miztv.top/stream/stream-435.php",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
         }, {
 			"name": "M-Campeones",
 			"image": "https://i.ibb.co/1d1vgCM/1-0-1-757-B-412-1-C00000-0-0-0.png",
@@ -49,13 +50,11 @@
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                             }, {  			
-                                                       "name": "M-Deportes 28",
 			"name": "M-Deportes",
 			"image": "https://i.ibb.co/NFbBsmc/1-0-1-778-F-424-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                    "url" :  "https://bleedfilter.net/embed/fic72y7ypbq6",
-		"referer" : "https://powerover.online/",
-			 "isHost":"true"
+                  "url": "https://miztv.top/stream/stream-436.php",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                            }, {  			
                                                        "name": "M-Deportes 62",
 			"name": "M-Deportes",
@@ -68,9 +67,8 @@
 			"name": "M-Deportes 2",
 			"image": "https://i.ibb.co/5KjMtsf/1-0-1-77-C2-40-A-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	       			 "url" :  "https://bleedfilter.net/embed/f3cstn9tlhuu",
-		"referer" : "https://powerover.online/",
-			 "isHost":"true"
+	       		"url": "https://miztv.top/stream/stream-438.php",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                     }, {
 			"name": "lat63",                           
 			"name": "M-Deportes 2",
@@ -83,8 +81,8 @@
 			"name": "Teledeporte",
 			"image": "https://i.ibb.co/0qKp5y7/Teledeporte.gif",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url": "https://dokko1new.newkso.ru/dokko1/premium529/mono.m3u8",
-			"userAgent": ""
+			 "url" :  "https://ztnr.rtve.es/ztnr/1712295.m3u8",
+			 "userAgent":""
                  }, {
                                                       "name": "28",
 			"name": "M-F1",
@@ -112,13 +110,6 @@
                      "url" : "https://catercollege.net/embed/um6txc0v4k7ji8o",
 		"referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"   
-            }, {
-			"name": "Euro-Sport 1 R",
-			"image": "https://archive.org/download/eurosport-4-k/Eurosport_4K.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                      "url" : "https://wagontorch.net/embed/o3n79f",
-                         "referer" : "https://strimsy.top/",
-                         "isHost" : "true"
         }, {
 			"name": "Euro-Sport 2",
 			"image": "https://sportonthebox.files.wordpress.com/2012/07/behd.png",
@@ -136,8 +127,8 @@
 			"name": "M-Golf",
 			"image": "https://i.ibb.co/16mPYdm/1-0-1-7789-424-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" : "https://dokko1new.newkso.ru/dokko1/premium528/mono.m3u8",
-			 "userAgent":"" 	
+			"url": "https://miztv.top/stream/stream-528.php",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
                 }, {
 			"name": "SKY-Golf",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/2560px-Sky_Sport_Golf_Logo_2022.svg.png",
@@ -163,18 +154,6 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
         "url": "https://telemadrid-23-secure2.akamaized.net/master.m3u8",
 			"userAgent": "" 
-                                    }, {
-                                     "name": "Barça One",
-			 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2N0R5vi9h0c5uq3CrwyO02Sjq9xqfFaN2Q&s",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-               			    "url" : "	https://barcatvlive2.flumotion.cloud/barcatv/live2_high/chunks_dvr.m3u8",
-			"userAgent": ""
-		}, {
-			"name": "Real MAdrid en la TV",
-			"url": "https://dokko1new.newkso.ru/dokko1/premium523/mono.m3u8",
-			"image": "https://i.ibb.co/SySS6Yj/Real-Madrid.gif",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                                      "userAgent" : " "
 		}, {
 			"name": "Real Betis en la TV ",
 			"url": "https://www.realbetisbalompie.es/rtvbetis/directo-tv/",
@@ -215,9 +194,9 @@
                     "name": "ESPN-Argentina",
                     "image": "https://i.ibb.co/pfvTKxK/espn.gif",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                              "url" : "https://la12hd.com/vivo/canal.php?stream=espn",
-                   "referer" : "https://zzcointv.xyz/",
-					"isHost":"true"
+                             "url": "https://la14hd.com/vivo/canales.php?stream=espn",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true"
                     },{
                     "name": "87",
                     "name": "ESPN-Argentina",
