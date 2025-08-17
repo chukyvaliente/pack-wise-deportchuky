@@ -38,13 +38,6 @@
 		"url" : "https://letscast.pro/steam.php?stream=YJ8krnYwZrR",
                               "referer" : "https://livestreams.click/",
              "isHost": "true"  
-                         }, {
-"name": "DAZN Liga 2",
-                    "image": "https://i.ibb.co/3cBzLwr/1-0-1-7691-41-E-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono28/mono.m3u8",
-            "userAgent": "" 
-                       
                         }, {
                       "name" : "52",
                     "name": "DAZN Liga 2",
@@ -142,13 +135,6 @@
 			             "url" : "https://catercollege.net/embed/6na79kddf",
             "referer":"https://tarjetarojaenvivo.lat/",
               "isHost" : "true"
-              }, {
-          "name" : "29",
-          "name": "M-F1(OP-2)",
-			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			 "url" : "https://x4-cdnnew.newkso.ru/x4-cdn/mono29/mono.m3u8",
-            "userAgent": ""
                    }, {
                                                      "name": "M-F1(OP-3)",
                                     "name" : "28",
@@ -165,7 +151,6 @@
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
                         "referer" : "https://forcedtoplay.xyz/",
                                 "isHost":"true"
-                       },{ 
                                         }, {
                   	"name": "M-F1(OP-5)",
 			"image": "https://i.ibb.co/8zw5pL6/1-0-1-74-A4-41-C-1-C00000-0-0-0.png",
