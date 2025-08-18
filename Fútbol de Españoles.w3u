@@ -80,11 +80,13 @@
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"  
                           }, {
+            "name" : "https://espngratis.com",
 			"name": "La de España (Inglés)",
 			"image": "https://i.ibb.co/H7cCHmf/la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	                        "url" : "https://espngratis.com/player.php?canal=Dazn+la+Liga+%28esp%29",
-			"isHost" : "true" 
+	                         "url" :  "https://hornpot.net/embed/0187w",
+		                  "referer" : "https://welivesport.shop/",
+			 "isHost":"true"  
                          }, {
 			"name": "La de España (Inglés)",
 			"image": "https://i.ibb.co/H7cCHmf/la-liga.png",
