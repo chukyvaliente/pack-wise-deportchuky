@@ -344,11 +344,12 @@
 		   "url" :  "https://1.zhdcdn.zip/play.php?id=977%27,%20345,%20100",
 			 "isHost":"true"
                                                     }, {
-			"name": "TNT Sport 2",
+			"name": "TNT Sport 2+",
 			"image": "https://media.info/l/o/1/1540.1690027877.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		  "url" :  "https://seed.nakachi.online/hls/tnt2-uk/playlist.m3u8",
-			 "userAgent":""
+		  "url" :  "https://stellarthread.com/footy.php?player=desktop&live=bbtsp2",
+			 "referert":"https://fsportshd.biz/",
+                "isHost" : "true"
                                                  }, {
 			"name": "TNT Sport 3+",
 			"image": "https://media.info/l/o/5/5712.1690027954.png",
