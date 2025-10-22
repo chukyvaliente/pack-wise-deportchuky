@@ -178,56 +178,49 @@
 		"info": "",
 		"stations": [{
                                                       "name": "Campeones 3", 
-			"name": "Kairat vs Paphos",
+			"name": "Galatasaray vs Bodø/Glimt",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                  "url" : "https://bloodycount.net/fzlmto5c8",
+		                  "url" : "https://bloodycount.net/embed/fzlmto5c8",
                                                      "referer" : "https://bedsport.live/",
                                                       "isHost": "true" 
                             }, {
                                                       "name": "c3-3",
-			"name": "Kairat vs Paphos",
+			"name": "Galatasaray vs Bodø/Glimt",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                 "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
+		                 "url": "https://la14hd.com/vivo/canales.php?stream=espn",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
                         }, {
-                                                      "name": "Campeones 2", 
-			"name": "Villarreal vs Manchester City",
+                                                      "name": "Campeones 3", 
+			"name": "Chelsea vs Ajax",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                 "url" :  "https://catercollege.net/embed/r0zijuje2llg07a",
-		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"
-                                 }, {
-                                                      "name": "Campeones 2", 
-			"name": "Villarreal vs Manchester City",
-			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                 "url" :  "https://arizonaplay.club/hls4.php?stream=HDTV7",
-		                  "referer" : "https://streamsgate.live/",
-			 "isHost":"true"
+		                   "url": "https://la14hd.com/vivo/canales.php?stream=espn5",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true"
                             }, {
-                                                      "name": "Campeones 2-92",
-			"name": "Villarreal vs Manchester City",
+                                                      "name": "Campeones 3-93",
+			"name": "Chelsea vs Ajax",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                 "url" : "https://bloodycount.net/embed/g42s0o",
+		                "url" : "https://bloodycount.net/embed/fzlmto5c8",
                                                      "referer" : "https://bedsport.live/",
                                                       "isHost": "true" 
                                                    }, {
                                                       "name": "Campeones 6 ",
-			"name": "PSV vs Napoli",
+			"name": "Bayern Munich vs Club Brugge",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			   "url": "https://la14hd.com/vivo/canales.php?stream=espn4",
+			   "url": "https://la14hd.com/vivo/canales.php?stream=espn",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
                      }, {
                                                       "name": "Campeones 6 ",
-			"name": "PSV vs Napoli",
+			"name": "Bayern Munich vs Club Brugge",
                                                       "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
 			"url" :  "https://catercollege.net/embed/eur8cbk",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                                     }, {
 			"name": "campeones 5",
-                                                      "name" : "Bayer Leverkusen vs PSG",
+                                                      "name" : "Eintracht Frankfurt vs Liverpool",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			  "url": "https://la14hd.com/vivo/canales.php?stream=espn3",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
@@ -235,101 +228,108 @@
                                                       }, {
                                                        "name":"166",
                                                       "name": "Campeones 5 ",
-			"name": "Bayer Leverkusen vs PSG",
+			"name": "Eintracht Frankfurt vs Liverpool",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 			 "url" :  "https://catercollege.net/embed/xhh0h43hpx2v7",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                           }, {
                                                       "name": "Campeones 9 ",
-			"name": "København vs Borussia Dortmund",
+			"name": "Atalanta vs Slavia Prague",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                 "url" : "https://bloodycount.net/embed/8nus1c63oc6",
                                                      "referer" : "https://bedsport.live/",
                                                       "isHost": "true" 
                                           }, { 
-                            "name" : "København vs Borussia Dortmund",
+                            "name" : "Atalanta vs Slavia Prague",
                            "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                "url": "https://la14hd.com/vivo/canales.php?stream=espn6",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
                           }, {
 			  "name": "Campeones ",
-			"name": "FC  Barcelona y Atlético de Madrid",
+			"name": "Athletic Club y Real Madrid",
                                                       "image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg", 
 			 "url" :  "https://new.wayout.top/hembedplayer/fgvhdfh44hggd/1/720/480",
               "referer" : "https://tiroalpalo.cx/",
 			 "isHost":"true"
                           }, {
                                                       "name": "Campeones ",
-			"name": "FC  Barcelona y Atlético de Madrid",
+			"name": "Athletic Club y Real Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                    "url" :  "https://wagontorch.net/embed/x2qidlx7",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
                                                           }, {
                                                       "name": "Campeones 30 ",
-			"name": "FC  Barcelona y Atlético de Madrid",
+			"name": "Athletic Club y Real Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                    "url" : "https://arizonaplay.club/hls3.php?stream=HDTV6",
                                                      "referer" : "https://streamingon.org/",
                                                       "isHost": "true" 
-                                   }, {
+                                                                         }, {
+                                                      "name": "Campeones 2", 
+			"name": "Athletic Club y Real Madrid",
+			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
+		                 "url" :  "https://arizonaplay.club/hls4.php?stream=HDTV7",
+		                  "referer" : "https://streamsgate.live/",
+			 "isHost":"true"
+                                                                                 }, {
                                                       "name": "https://mediacast",
-			"name": "FC  Barcelona y Atlético de Madrid",
+			"name": "Athletic Club y Real Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                   "url" : "https://mediacast.click/emb01/ligadecom.php",
 			"referer" : "https://mediacast.click/emb01/ligadecom.php",
                  "isHost" : "true"
                                                  }, {
                                                       "name": "Campeones 61 ",
-			"name": "FC  Barcelona y Atlético de Madrid",
+			"name": "Athletic Club y Real Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                 "url" :  "https://catercollege.net/embed/opthng68di66m",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                                    }, {
                                                       "name": "Campeones ",
-			"name": "FC  Barcelona y Atlético de Madrid",
+			"name": "Athletic Club y Real Madrid",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-			     "url": "https://la14hd.com/vivo/canales.php?stream=espn",
+			     "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
                                       }, {
                                                       "name": "Campeones 7 ",
-			"name": "Newcastle United vs Benfica",
+			"name": "Monaco vs Tottenham Hotspur",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                        "url": "https://la14hd.com/vivo/canales.php?stream=espn7",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
                                                  }, {
                                                       "name": "Campeones 7",
-			"name": "Newcastle United vs Benfica",
+			"name": "Monaco vs Tottenham Hotspur",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                 "url" :  "https://catercollege.net/embed/5vl1f5yw",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
                               }, {
                                                       "name": "Campeones 8 ",
-			"name": "Union Saint-Gilloise vs Internazionale",
+			"name": "Sporting Lisbon vs Marseille",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
 		                        "url": "https://bloodycount.net/embed/r0zijuje2llg07a",
    "referer" : "https://bedsport.live/",
 			"isHost" : "true"
                              }, {
                                                       "name": "Campeones 8 ",
-			"name": "Union Saint-Gilloise vs Internazionale",
+			"name": "Sporting Lisbon vs Marseille",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-		                         "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
+		                         "url": "https://la14hd.com/vivo/canales.php?stream=espn4",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
                                 }, {
                                                       "name": "18",
                                                       "name": "Multichampions",
 			"image": "https://a.espncdn.com/photo/2023/0830/r1217896_1295x729_16-9.png",
-		                  "url" :  "https://new.allover.top/hembedplayer/fgrhyfj3bgfh/4/500/400",
-              "referer" : "https://new.allover.top/fgrhyfj3bgfh",
-			 "isHost":"true"
+		                "url": "https://bloodycount.net/embed/l2tnht",
+   "referer" : "https://bedsport.live/",
+			"isHost" : "true"
                      }, {
                                                      "name": "Campeones 4-164", 
 			"name": "Multichampions",
