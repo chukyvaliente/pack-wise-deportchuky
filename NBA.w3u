@@ -230,10 +230,11 @@
 			"url" : "https://www.google.es/",
 			"isHost": "true"
                            }, {
-			"name": "Falcons",
+			"name": "pass",
 			"image": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			"url" : "https://givemereddit.eu/nfl/falcons.html",
+			"url" : "https://bedsport.live/ch.php?id=86",
+            "referer" : "https://glzdeportes.com/",
 			"isHost": "true"   
                                 }, {
 			"name": "Titans",
