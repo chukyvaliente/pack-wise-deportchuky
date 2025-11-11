@@ -241,37 +241,7 @@
                 "url": "https://la14hd.com/vivo/canales.php?stream=espn3",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
-                         },{
-                    "name": "ESPN-Brasil",
-                    "image": "https://i.ibb.co/gZyMJG1k/espn.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                           "url" :  "https://d1muf25xa11so8hp11.s27-usa-cloudfront-net.online/token/1f16a3982443b742616c5dda7e89b3c5/espn.m3u8",
-                                  "userAgent":""
-                    },{
-                    "name": "ESPN 2-Brasil",
-                    "image": "https://i.ibb.co/gZyMJG1k/espn.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                           "url" :  "https://d1muf25xa11so8hp11.s27-usa-cloudfront-net.online/token/6b3ce3eb0a14e4ce8c13754a0dad7f05/espn2.m3u8",
-                            "userAgent" : " "
-                    },{
-                    "name": "ESPN 3-Brasil",
-                    "image": "https://i.ibb.co/gZyMJG1k/espn.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                          "url" :  "https://d1muf25xa11so8hp11.s27-usa-cloudfront-net.online/token/3d6b7faa672bedc455bc8af74f82498e/espn3.m3u8",
-                                  "userAgent":""
-                    },{
-                    "name": "ESPN 4-Brasil",
-                    "image": "https://i.ibb.co/gZyMJG1k/espn.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                        "url" :  "https://d1muf25xa11so8hp11.s27-usa-cloudfront-net.online/token/88d4d819cfafbe6b851365a4212d4b06/espn4.m3u8",
-                                  "userAgent":""
-                    },{
-                    "name": "ESPN 5-Brasil",
-                    "image": "https://i.ibb.co/gZyMJG1k/espn.jpg",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                         "url" :  "https://d1muf25xa11so8hp11.s27-usa-cloudfront-net.online/token/d682c7dfa3956e97b4acba473eae5919/espn5.m3u8",
-                                  "userAgent":""
-                        }, {
+                      },{   
 			"name": "TNT Sports",
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
