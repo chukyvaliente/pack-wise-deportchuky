@@ -241,6 +241,26 @@
                 "url": "https://la14hd.com/vivo/canales.php?stream=espn3",
 "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
 "isHost": "true"
+                      }, {   
+                                   "name": "ESPN 1 Brasil",
+			 "image": "https://minhatelinha.net/wp-content/uploads/espn.jpg",
+               			"url" :  "https://minhatelinha.net/assistir-espn-ao-vivo-online-gratis-24-horas-hd/"
+                                   }, {   
+                                   "name": "ESPN 2 Brasil",
+			 "image": "https://minhatelinha.net/wp-content/uploads/espn2.jpg",
+               			"url" :  "https://minhatelinha.net/assistir-espn-2-ao-vivo-online-gratis-24-horas-hd/" 
+                                   }, {   
+                                   "name": "ESPN 3 Brasil",
+			 "image": "https://minhatelinha.net/wp-content/uploads/espn3.jpg",
+               			"url" :  "https://minhatelinha.net/assistir-espn-3-ao-vivo-online-gratis-24-horas-hd/"
+                                   }, {   
+                                   "name": "ESPN 4 Brasil",
+			 "image": "https://minhatelinha.net/wp-content/uploads/espn4.jpg",
+               			"url" :  "https://minhatelinha.net/assistir-espn-4-ao-vivo-online-gratis-24-horas-hd/"
+                                   }, {   
+                                   "name": "ESPN 5 Brasil",
+			 "image": "https://minhatelinha.net/wp-content/uploads/espn5.jpg",
+               			"url" :  "https://minhatelinha.net/assistir-espn-5-ao-vivo-online-gratis-24-horas-hd/" 
                       },{   
 			"name": "TNT Sports",
 			"image": "https://i0.wp.com/qepd.news/wp-content/uploads/2019/07/cropped-tnt-sports.jpg?fit=600%2C337&ssl=1",
