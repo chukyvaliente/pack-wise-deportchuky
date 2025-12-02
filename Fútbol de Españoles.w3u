@@ -503,7 +503,7 @@
 			"name": "La de España",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	                         "url" :  "https://beautifulpeople.lovecdn.ru/LALIGAES/index.fmp4.m3u8?token=af6bb483a65abc5e9a25fb43ba453ea8b286d953-a0ead9c0b9dd7920648bb81229141196-1764447755-1764436955",
+	                         "url" :  "https://beautifulpeople.lovecdn.ru/LALIGAES/index.fmp4.m3u8?token=acfdf85ef5c6309f22664e78d4f1a6d43dc4d4a0-b09ff85bdf78d862a72872a525c630e7-1764714623-1764703823",
                               "userAgent" : " " 
                          }, {
                         "name" : "https://mediacast.click/",
@@ -517,9 +517,9 @@
 			"name": "La Liga (opción 5)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			     "url" :   "https://la14hd.com/vivo/canales.php?stream=espndeportes",
-				"referer" : "https://glzdeportes.com/",
-			 "isHost":"true"    
+			     "url": "https://la14hd.com/vivo/canales.php?stream=espn",
+"userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36",
+"isHost": "true"
                                                                               }, {
                            "name" : "86",
 			"name": "La Liga (opción 6)",
@@ -547,13 +547,13 @@
 			"name": "La de España (Inglés)",
 			"image": "https://i.ibb.co/H7cCHmf/la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	                         "url" :  "https://beautifulpeople.lovecdn.ru/LALIGAES/index.fmp4.m3u8?token=af6bb483a65abc5e9a25fb43ba453ea8b286d953-a0ead9c0b9dd7920648bb81229141196-1764447755-1764436955",
+	                         "url" :  "https://beautifulpeople.lovecdn.ru/ViaplayLaLigaUK/index.fmp4.m3u8?token=ebbb2b7a150bda9927529ca14db60a8c7e2d2d8c-0e925efb2a2491447961fbf408cfae7f-1764714920-1764704120",
                               "userAgent" : " "
                         }, {
 			"name": "La de España (Inglés)",
 			"image": "https://i.ibb.co/H7cCHmf/la-liga.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	                       "url" :  "https://ddkanqu.com/zhibo/26706.html"                  
+	                       "url" :  "https://ddkanqu.com/zhibo/28227.html"                  
 },
 ]},
 {			
