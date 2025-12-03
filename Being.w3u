@@ -46,7 +46,8 @@
 "name": "DAZN Liga",
 "image": "https://i.ibb.co/7KTBbcw/1-0-1-76-C9-40-E-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-         "url" : "https://cdn.livetv869.me/export/webplayer.iframe.php?t=ifr&c=2847586&lang=es&eid=319572788&lid=2847586&ci=15&si=1"
+         "url" : "https://cdn.livetv869.me/export/webplayer.iframe.php?t=ifr&c=2847586&lang=es&eid=319572788&lid=2847586&ci=15&si=1",
+         "isHost" : "true"
                         }, {
                       "name" : "52",
                     "name": "DAZN Liga 2",
