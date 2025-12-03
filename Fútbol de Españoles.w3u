@@ -353,123 +353,69 @@
 		"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",     
 		 "info" : " ",
 		"stations": [{
-                                                      "name" : "92",
-			"name": "Orihuela vs Levante",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	       			   "url" : "https://bloodycount.net/embed/g42s0o", 
-                         "referer" : "https://bedsport.live/",
-			"isHost" : "true"
-                       }, {
 			"name": "50-liga 2",
-			"name": "Orihuela vs Levante",
+			"name": "Canal 1",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url" :  "https://catercollege.net/embed/ikprof0g",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
-                                           }, { 
-                                                      "name": "91",
-                                                      "name": "Atletic Lleida vs Espanyol",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	                                          "url" : "https://bloodycount.net/embed/y8pde",
-			 "referer" : "https://bedsport.live/",
-			"isHost" : "true"
-                       }, {
-			"name": "apsg",
-			"name": "Atletic Lleida vs Espanyol",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	    "url" :  "https://wagontorch.net/embed/x2qidlx7",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true" 
-                       }, {
-			"name": "sportzonline",             
-			"name": "Puerto de Vega vs Celta de Vigo",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-	                                     "url" :  "https://wagontorch.net/embed/x2qidlx7",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true" 
                        }, {
                         "name": "49",
-			"name": "Puerto de Vega vs Celta de Vigo",
+			"name": "Canal 2",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	    "url" :  "https://catercollege.net/embed/8xjdm9xmx8ys",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"
-                                                          }, {
-			 "name" : "26",
-			"name": "Atletico Baleares vs Gimnastic Tarragona",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	       			   "url" : "https://bloodycount.net/embed/3d44n21uf8pkocd", 
-                         "referer" : "https://bedsport.live/",
-			"isHost" : "true"
                        }, {
-			"name": "49",
-			"name": "Atletico Baleares vs Gimnastic Tarragona",
+			"name": "163",
+			"name": "Canal 3",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url" :  "https://catercollege.net/embed/8xjdm9xmx8ys",
+		      	   "url" :  "https://catercollege.net/embed/r0zijuje2llg07a",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"      
-                                }, {
-			 "name" : "93",
-			"name": "Getxo vs Deportivo Alaves",
+			 "isHost":"true"   
+                         }, {
+			"name": "164",
+			"name": "Canal 4",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	       			    "url": "https://bloodycount.net/embed/fzlmto5c8",
-             "referer" : "https://bedsport.live/",
-			"isHost" : "true"
+		      	   "url" :  "https://catercollege.net/embed/ds13z4tuaur39",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"  
+                      }, {
+			"name": "165",
+			"name": "Canal 5",
+			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
+                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+		      	   "url" :  "https://catercollege.net/embed/g61pboptvk4v0",
+		                  "referer" : "https://tarjetarojaenvivo.lat/",
+			 "isHost":"true"   
                            }, {
-			"name": "50",
-			"name": "Getxo vs Deportivo Alaves",
+			"name": "166",
+			"name": "Canal 6",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url" :  "https://catercollege.net/embed/ikprof0g",
+		      	   "url" :  "https://catercollege.net/embed/eur8cbk",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
-			 "isHost":"true"
-                             }, {
-			 "name" : "27",
-			"name": "Samano vs Deportivo La Coruna",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	       			    "url": "https://bloodycount.net/embed/re856noa",
-             "referer" : "https://bedsport.live/",
-			"isHost" : "true"
+			 "isHost":"true"   
                            }, {
 			"name": "53",
-			"name": "Samano vs Deportivo La Coruna",
+			"name": "Canal 7",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url" :  "https://catercollege.net/embed/anirqn",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true" 
-                          }, {
-			 "name" : "94",
-			"name": "Palma del Rio vs Real Betis",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-           	       			    "url": "https://bloodycount.net/embed/gu05r8ig",
-             "referer" : "https://bedsport.live/",
-			"isHost" : "true"
                            }, {
 			"name": "51",
-			"name": "Palma del Rio vs Real Betis",
+			"name": "Canal 8",
 			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
                                                        "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		      	   "url" :  "https://catercollege.net/embed/w2iuo",
 		                  "referer" : "https://tarjetarojaenvivo.lat/",
 			 "isHost":"true"   
-                           }, {
-			"name": "live",
-			"name": "Logroñes vs Ponferradina",
-			"image": "https://i.ibb.co/7KyszFh/copa-del-rey.jpg",
-                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-		      	   "url" :  "https://cdn.livetv869.me/webplayer.php?t=ifr&c=2866089&lang=fr&eid=312650894&lid=2866089&ci=55&si=1"
                       }]
 },{			 
 		"name": "LaLiga EA Sports  𝓑𝓎 😈 🅲🅷🆄🅺🆈​​​​​©",
