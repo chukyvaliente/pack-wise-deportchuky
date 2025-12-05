@@ -343,11 +343,12 @@
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
           "url" :  "https://pandastreams.shop/player/stream-84.php"  
                      },{
-                    "name": "Pruebas",
+                    "name": "Pruebas f",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Logo-Beinsports-10MAX.png",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://beautifulpeople.lovecdn.ru/LALIGAES/index.fmp4.m3u8?token=4372820bd782d5cb3d9ee61b806cc633c375d600-2cd07861399fadc6236e8c9ef073db2b-1763848072-1763837272",
-			 "userAgent" : ""    
+          "url" :  "https://playcast.click/steam.php?stream=4eLyr2RZq7v",
+			 "referer" : "https://castmedia.click/",
+              "ishost" : true"
 			 },	
 ]}
   ]
