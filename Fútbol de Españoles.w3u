@@ -492,13 +492,18 @@
             "referer": "https://bedsport.live/",
                      "isHost" : "true"    
                                                           }, {
-             "name" : "29",
 			"name": "La Liga (opción 8)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			       "url" :  "https://new.wayout.top/hembedplayer/hgdfhyufgujh7/4/500/400",
-		"referer" : "https://one.wayout.top/",
+			       "url" :  "https://emb.apl385.me/player/live.php?id=244403&w=728&h=480",
 			 "isHost":"true"
+                                  }, {
+			"name": "La Liga (opción 9)",
+			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+			       "url" :  "https://playcast.click/steam.php?stream=4eLyr2RZq7v",
+                 "referer" : "https://castmedia.click/",
+			 "isHost":"true"  
                                  }, {
 			"name": "M+",
 			"image": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/movistar_plus_azul.png?resize=440%2C264&ssl=1",
