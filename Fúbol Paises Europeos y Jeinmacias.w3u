@@ -135,22 +135,29 @@
                   "referer" : "https://gopst.link/",
             "isHost": "true"
                    }, {
-                        "name" : "hd11",
+                        "name" : "hd1",
 			"name": "Partido en (Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-   "url" :  "https://admitsettle.net/embed/kw6ef0n921mnbf0",
+   "url" :  "https://admitsettle.net/embed/pdiez3cpk4198",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
                        }, {
-                        "name" : "br3",
+                        "name" : "br2",
 			"name": "Partido en (Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-   "url" :  "https://admitsettle.net/embed/6349ts7",
+   "url" :  "https://admitsettle.net/embed/57g57feq",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
                       }, {
+			"name": "Partido en (Extranjero)",
+			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
+                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
+      "url": "https://arizonaplay.club/hls2.php?stream=HDTV1",
+			"referer": "https://streamingon.org/",
+             "isHost": "true" 
+                 }, {
 			"name": "Partido en (Extranjero)",
 			"image": "https://i.ibb.co/M5Y34Hg/premier.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
@@ -170,15 +177,15 @@
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
        "url" : "https://bloodycount.net/embed/lru1us9mecf",
-           "referer": "https://bedsport.live/",
+           "referer": "https://gopst.link/",
                      "osHost" : "true"
 		}, { 
-			"name": "51",
+			"name": "52",
 			"name": "Opción 2",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			           "url" : "https://bloodycount.net/embed/9lyoj5l4jvj8euv",
-           "referer": "https://bedsport.live/",
+			           "url" : "https://bloodycount.net/embed/hvbzk77nd",
+           "referer": "https://gopst.link/",
                      "osHost" : "true"
         }, {
                         "name" : "hd4",
@@ -196,12 +203,12 @@
 		"referer" : "https://streamingon.org/",
 			 "isHost":"true" 
 		}, {
-                         "name": "53",
+                         "name": "51",
 			"name": "Opción 5",
 			"image": "https://img.planetafobal.com/2020/07/liga-francesa-2020-2021-ds.jpg",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			       "url" : "https://bloodycount.net/embed/7za23cu",
-           "referer": "https://bedsport.live/",
+			       "url" : "https://bloodycount.net/embed/9lyoj5l4jvj8euv",
+           "referer": "https://gopst.link/",
                      "osHost" : "true"
 },
 ]},
@@ -211,14 +218,6 @@
 		"info": "",
 		"stations": [
 		{
-             "name": "pepe",
-                       "name": "Diretta gol",
-			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
-                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-            "url" : "https://dukehorror.net/embed/vu5pc5iwla1c",
-           "referer": "https://www.pepperlive.info/",
-                     "osHost" : "true"
-                                  }, {
  			"name": "87",
                        "name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
@@ -235,11 +234,11 @@
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
 		}, {
-                        "name": "sporttv3",
+                        "name": "sporttv2",
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-                                                "url" :  "https://admitsettle.net/embed/4h80gffrr5803z",
+                                                "url" :  "https://admitsettle.net/embed/dm4f0c0bxcxxsau",
 		"referer" : "https://buzztv.futbol/",
 			 "isHost":"true" 
                 }, {
@@ -251,11 +250,11 @@
            "referer": "https://gopst.link/",
                      "osHost" : "true"
            }, {
-                                                       "name": "1",
+                                                       "name": "46",
 			"name": "",
 			"image": "https://1000logos.net/wp-content/uploads/2019/01/Italian-Serie-A-Logo.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			  "url" : "https://bloodycount.net/embed/g3cxfy",
+			  "url" : "https://bloodycount.net/embed/zt3z2jp",
            "referer": "https://gopst.link/",
                      "osHost" : "true"
                 }, {
