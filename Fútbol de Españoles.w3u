@@ -582,8 +582,9 @@
 			"name": "La Liga (opción 9)",
 			"image": "https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-			       "url" :  "https://emb.apl385.me/player/live.php?id=244403&w=728&h=480",
-			 "isHost":"true"  
+			   "url" : "https://bloodycount.net/embed/wnm78ydq",
+            "referer": "https://gopst.link/",
+                     "isHost" : "true"    
                                  }, {
 			"name": "M+",
 			"image": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/movistar_plus_azul.png?resize=440%2C264&ssl=1",
@@ -705,7 +706,7 @@
                                                       "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
 		"stations": [
 		{
-                    "name": "Lugo-Merida",
+                    "name": "CE Europa - Alcorcón",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
           "url" :  "https://morganwijf.d71ksharey2qltank.sbs/es/football/spanish-primera-division-rfef-4225208/cd-lugo-vs-merida-ad.html?icg=RVM&ilang=es",
 			 "embed" : "true"   
@@ -713,52 +714,52 @@
                     "name": "Alcorcón-Cartagena",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                    "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://www.fctv33.hair/es/football/spanish-primera-division-rfef-match-4228836/ad-alcorcon-vs-fc-cartagena-01-2026.html",
+          "url" :  "https://www.fctv33.hair/es/football/spanish-primera-division-rfef-match-4228841/ad-alcorcon-vs-fc-cartagena-01-2026.html",
 			 "embed" : "true" 
                                                       },{
-                                        "name": "Atletico de Madrid-Tarazona",
+                                        "name": "Racing Ferrol - Bilbao Athletic",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                    "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://www.fctv33.hair/es/football/spanish-primera-division-rfef-match-4228832/atletico-de-madrid-b-vs-sd-tarazona-01-2026.html",
+          "url" :  "https://www.fctv33.hair/es/football/spanish-primera-division-rfef-match-4225214/atletico-de-madrid-b-vs-sd-tarazona-01-2026.html",
 			 "embed" : "true"   
 				},{
-                    "name": "Torremolinos-Gimnastic",
+                    "name": "Arenas Club -RM Castilla",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://www.fctv33.hair/es/football/spanish-primera-division-rfef-match-4228831/juventud-torremolinos-cf-vs-gimnastic-de-tarragona-01-2026.html",
+          "url" :  "https://www.fctv33.hair/es/football/spanish-primera-division-rfef-match-4225219/juventud-torremolinos-cf-vs-gimnastic-de-tarragona-01-2026.html",
 			 "embed" : "true" 
                                                                    }, {
-                                     "name": "Teruel-Antequera",
+                                     "name": "Arenteiro - Lugo",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                      "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://www.fctv33.hair/es/football/spanish-primera-division-rfef-match-4228828/teruel-vs-antequera-cf-01-2026.html",
+          "url" :  "https://www.fctv33.hair/es/football/spanish-primera-division-rfef-match-4225216/teruel-vs-antequera-cf-01-2026.html",
 			 "embed" : "true" 
                                                            },{
-                    "name": "Pontevedra-Ferrol",
+                    "name": "Real Avilés - Pontevedra",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://www.fctv33.hair/es/football/spanish-primera-division-rfef-match-4225217/pontevedra-vs-racing-de-ferrol-01-2026.html",
+          "url" :  "https://www.fctv33.hair/es/football/spanish-primera-division-rfef-match-4225218/pontevedra-vs-racing-de-ferrol-01-2026.html",
 			 "embed" : "true" 
                                                           },{
-                    "name": "Ourene-Avilés",
+                    "name": "Guadalajara - Cacereño",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://www.fctv33.hair/es/football/spanish-primera-division-rfef-match-4225204/ourense-cf-vs-real-aviles-01-2026.html",
+          "url" :  "https://www.fctv33.hair/es/football/spanish-primera-division-rfef-match-4225222/ourense-cf-vs-real-aviles-01-2026.html",
 			 "embed" : "true" 
                                                            },{
-                    "name": "Barakaldo-Unionistas",
+                    "name": "Ponferradina - Ourense CF",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
-          "url" :  "https://www.fctv33.hair/es/football/spanish-primera-division-rfef-match-4225205/barakaldo-cf-vs-unionistas-de-salamanca-cf-01-2026.html",
+          "url" :  "https://www.fctv33.hair/es/football/spanish-primera-division-rfef-match-4225215/barakaldo-cf-vs-unionistas-de-salamanca-cf-01-2026.html",
 			 "embed" : "true" 
                                                           },{
-                    "name": "Algeciras-Sevilla B",
+                    "name": "",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
           "url" :  "https://www.fctv33.hair/es/football/spanish-primera-division-rfef-match-4228827/algeciras-vs-sevilla-atletico-01-2026.html",
 			 "embed" : "true" 
                               },{
-                    "name": "Hércules-Sabadell",
+                    "name": "l",
 			"image": "https://i.ibb.co/7jShBMY/rfef.webp",
                                                         "info" : " 𝓑𝓎 😈🅲🅷🆄🅺🆈​​​​​© ",
           "url" :  "https://morganwijf.d71ksharey2qltank.sbs/es/football/spanish-primera-division-rfef-4228835/hercules-vs-sabadell.html?icg=RVM&ilang=es",
