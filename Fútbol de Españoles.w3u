@@ -241,7 +241,9 @@
                              }, {
                                   "name": "Villarreal vs Ajax",
 			"image": "https://i.ibb.co/Yhq2zjN/15713151141574.jpg",
-                                 "url" : "https://livetv786.pro/live/ligadecom2_spain.php"
+                                 "url" : "https://livetv786.pro/emb01/ligadecom2.php",
+                                 "referer" : "https://livetv786.pro/live/ligadecom2_spain.php",
+                                   "ishost" : "true"
                                      }, {
                                                       "name": "Campeones 2 ",
 			"name": "Villarreal vs Ajax",
